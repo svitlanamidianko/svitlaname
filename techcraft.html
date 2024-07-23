@@ -65,7 +65,16 @@
   </div>
   <div class="section blog">
     <div class="container-medium-768px w-container">
-      <p>More on work to come</p>
+      <div id="substack-feed-embed"></div>
+        <script>
+          window.SubstackFeedWidget = {
+            substackUrl: "svitlanaing.substack.com",
+            posts: 8,
+            filter: "top",
+            hidden: ["author"]
+          }
+        </script>
+        <script src="https://substackapi.com/embeds/feed.js" async></script>
     </div>
   </div>
   <footer class="footer">
