@@ -9,19 +9,25 @@ export default function Header() {
           <nav role="navigation" className="nav-menu w-nav-menu">
             <ul role="list" className="header-navigation">
               <li className="nav-item-wrapper">
-                <a href="/" className="nav-link">home</a>
+                <a href="/" className="nav-link">home .</a>
               </li>
               <li className="nav-item-wrapper">
-                <a href="/notes-to-self" className="nav-link">notes to self<br /></a>
+                <a href="/notes-to-self" className="nav-link">yummy collections</a>
               </li>
               <li className="nav-item-wrapper">
-                <a href="/writing" className="nav-link">writing</a>
+                <a href="/writing" className="nav-link">experiential software</a>
               </li>
               <li className="nav-item-wrapper">
-                <a href="/misc" className="nav-link">misc</a>
+                <a href="/writing" className="nav-link">writings .</a>
               </li>
               <li className="nav-item-wrapper">
-                <a href="https://www.pond.space/" className="nav-link">pond.space</a>
+                <a href="/misc" className="nav-link">artsies .</a>
+              </li>
+              <li className="nav-item-wrapper">
+                <a href="/misc" className="nav-link">misc pour</a>
+              </li>
+              <li className="nav-item-wrapper">
+                <a href="https://www.pond.space/" className="nav-link">pond.space .</a>
               </li>
             </ul>
           </nav>
