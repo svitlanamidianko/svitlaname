@@ -1231,6 +1231,7 @@ figcaption {
   text-decoration: none;
   transition: color .25s, background-color .25s;
   display: inline-block;
+  white-space: nowrap;
 }
 
 .nav-link:hover {
@@ -2345,6 +2346,7 @@ figcaption {
   .nav-link {
     text-align: left;
     display: block;
+    white-space: nowrap;
   }
 
   .menu-button {
@@ -3045,4 +3047,39 @@ figcaption {
   font-weight: 400;
   font-style: normal;
   font-display: swap;
+}
+
+/* Make the header container a flex row */
+.container-header {
+  display: flex;
+  align-items: center;
+  /* Remove justify-content: space-between if you want the nav to start after the sun */
+}
+
+/* Make the left split (sun + nav) stretch */
+.split-content.header-left {
+  display: flex;
+  align-items: center;
+  flex: 1; /* This makes it take up all available space */
+}
+
+/* Remove extra margin from the sun if needed */
+.brand.w-nav-brand {
+  margin-right: 0.5em; /* Or 0 if you want no gap */
+}
+
+/* Make the nav menu stretch */
+.nav-menu.w-nav-menu {
+  flex: 1;
+  margin-left: 0; /* Remove if there is a left margin */
+  padding-left: 0; /* Remove if there is left padding */
+}
+
+/* Make the navigation links fill the space */
+.header-navigation {
+  display: flex;
+  flex: 1;
+  justify-content: space-between; /* Evenly space links */
+  align-items: center;
+  margin-left: 0; /* Remove if there is a left margin */
 }

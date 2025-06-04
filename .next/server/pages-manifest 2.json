@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/writing": "pages/writing.js",
+  "/misc-pour": "pages/misc-pour.js",
+  "/yummy-collections": "pages/yummy-collections.js",
+  "/artsies": "pages/artsies.js",
+  "/": "pages/index.js",
+  "/experiential-software": "pages/experiential-software.js"
+}

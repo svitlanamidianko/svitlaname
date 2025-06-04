@@ -23,7 +23,7 @@ export default function Custom404() {
               <div className="mg-top-24px">
                 <a href="/" className="link-primary w-inline-block">
                   <div className="link-primary-wrapper">
-                    <div className="link-primary-text">Go Home</div>
+                    <div className="link-primary-text">go home</div>
                     <div className="link-primary-text-arrow">&nbsp;&nbsp;<span className="link-primary-arrow"></span></div>
                   </div>
                 </a>

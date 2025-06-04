@@ -3,6 +3,7 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/links": "pages/links.js",
-  "/notes-to-self": "pages/notes-to-self.js"
+  "/writing": "pages/writing.js",
+  "/yummy-collections": "pages/yummy-collections.js",
+  "/misc-pour": "pages/misc-pour.js"
 }
