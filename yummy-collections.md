@@ -5,7 +5,7 @@ see [our collection](https://svitlanamm.notion.site/expanding-inner-world-mind-g
 <br/><br/>
 <br/><br/>
 ### books and media
-see [our collection](https://svitlanamm.notion.site/6435b92ffe4b4404ad6ba8bb5ee171b0?v=1fa95a10886f8057aa53000c50c9fa48&pvs=143) of curious reads. 
+see our collection of curious reads. full notion database with many notes is at [svitlana.me/yumm](https://svitlanamm.notion.site/6435b92ffe4b4404ad6ba8bb5ee171b0?v=1fa95a10886f8057aa53000c50c9fa48&pvs=143)
 <br/><br/>
 - metaphors we live by by george lakoff and mark johnson. [notes.](https://svitlanamm.notion.site/Metaphors-we-live-by-ad0624d602d7491994f4500fd580c7b6?source=copy_link)
 - the computational boundary of the self by michael levin et al. [notes.]()
@@ -24,5 +24,5 @@ see [our collection](https://svitlanamm.notion.site/6435b92ffe4b4404ad6ba8bb5ee1
 - the entropic brain by carhart harris. [notes.](https://svitlanamm.notion.site/The-entropic-brain-2014-e342e77a1a0f4fa98a44bcef542d307a?source=copy_link)
 - how to change your mind by michael pollan. [notes.](https://svitlanamm.notion.site/How-to-change-your-mind-65703b4e0e4140e4957f77163814bcac?source=copy_link)
 - inventing on principle by bret victor. [notes.](https://svitlanamm.notion.site/inventing-on-principle-bfd49a1922d94a1bbc43a881dbf7e6d2?source=copy_link)
-- everything is a remix. [video.] (https://www.youtube.com/watch?v=X9RYuvPCQUA&t=1545s)
+- everything is a remix. [video.](https://www.youtube.com/watch?v=X9RYuvPCQUA&t=1545s)
 

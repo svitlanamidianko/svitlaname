@@ -9,6 +9,16 @@
         "tags": ["arena", "pond"],
         "description": ""
     },
+    "pm-guide": {
+        "url": "https://svitlanamm.notion.site/Hitchhiker-s-Guide-to-Product-Management-0035ff2aab8248fbb83e436319e26df6?source=copy_link",
+        "tags": ["notion"],
+        "description": ""
+    },
+    "highlist": {
+        "url": "https://svitlanamm.notion.site/High-List-01cafc3cff3740969e2f900cd5a1ffa1?source=copy_link",
+        "tags": ["notion"],
+        "description": ""
+    },
     "pondarena": {
         "url": "https://www.are.na/andre-vacha/pond-ngtmmhizvdy",
         "tags": ["arena", "pond"],
@@ -17,6 +27,21 @@
     "inniodrishti": {
         "url": "https://www.notion.so/svitlanamm/drishti-list-1aa95a10886f800a95c3c4eb949ad0d9?pvs=4",
         "tags": ["notion", "pond"],
+        "description": ""
+    },
+    "coach": {
+        "url": "https://svitlana.mmm.page/coach",
+        "tags": ["mmm"],
+        "description": ""
+    },
+    "pm": {
+        "url": "https://svitlanamm.notion.site/Let-me-help-you-prep-for-your-PM-APM-journey-f2da21ffd95446ca815a5d805a7f0f6f?source=copy_link",
+        "tags": ["notion"],
+        "description": ""
+    },
+    "teacher": {
+        "url": "https://svitlana.mmm.page/teach",
+        "tags": ["mmm"],
         "description": ""
     },
     "helpmyUAfriend": {
