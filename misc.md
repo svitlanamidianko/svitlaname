@@ -24,7 +24,7 @@
 <br/><br/>
 <br/><br/>
 ### some places, orgs, and entities i have been involved with 
-- minerva university - graduated with a CS degree 
+- minerva university - graduated with a CS degree
 - google - currently a product manager  
 - google women techmakers scholar 
 - ukraine - born and raised with a family living in the western ukraine still (be unafraid to ask me about effects of war)

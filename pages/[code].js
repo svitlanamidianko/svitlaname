@@ -5,7 +5,7 @@ export async function getServerSideProps(context) {
   const { code } = context.params;
 
   // Read links.json
-  const filePath = path.join(process.cwd(), 'links.json');
+  const filePath = path.join(process.cwd(), 'pages', 'links.json');
   const fileContents = fs.readFileSync(filePath, 'utf8');
   const links = JSON.parse(fileContents);
 
@@ -13,7 +13,7 @@ export async function getServerSideProps(context) {
     // Redirect to the mapped URL
     return {
       redirect: {
-        destination: links[code],
+        destination: links[code].url,
         permanent: false,
       },
     };
