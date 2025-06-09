@@ -23,7 +23,7 @@
 - [curius.app](https://curius.app/svitlana-midianko2) is fire too... see you there?
 <br/><br/>
 <br/><br/>
-### some places, orgs, and entities i have been involved with 
+### some places, orgs, and entities i have been involved with (aka  flex section)
 - minerva university - graduated with a CS degree
 - google - currently a product manager  
 - google women techmakers scholar 
