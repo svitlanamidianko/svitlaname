@@ -32,8 +32,8 @@ export default function Home({ contentHtml }) {
     <>
       <Head>
         <title>svitlana in your tab🌻</title>
-        <meta content="Svitlana Midianko | Home" property="og:title" />
-        <meta content="Svitlana Midianko | Home" property="twitter:title" />
+        <meta content="svitlana in your tab🌻" property="og:title" />
+        <meta content="svitlana in your tab🌻" property="twitter:title" />
         <meta content="width=device-width, initial-scale=1" name="viewport" />
         <link href="/images/favicon.png" rel="shortcut icon" type="image/x-icon" />
         <link href="/images/webclip.png" rel="apple-touch-icon" />

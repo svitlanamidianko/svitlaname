@@ -9,3 +9,4 @@ i seek beauty, growth and self-discovery through conscious creative practice, [m
 
 
 find me playing under the trees of san francisco 🌳  <br/><br/>
+s dot midianko at gmail com 
