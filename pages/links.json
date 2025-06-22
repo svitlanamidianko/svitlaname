@@ -9,6 +9,28 @@
         "tags": ["arena", "pond"],
         "description": ""
     },
+    "pmmindmap": {
+        "url": "https://whimsical.com/pm-frameworks-UNLctvjJtLdXVy3LYjKguE",
+        "tags": ["whimsical"],
+        "description": ""
+    },
+    "chakrasbook": {
+        "url": "https://svitlanamm.notion.site/western-body-eastern-mind-16d95a10886f806094aac8844ccf65a2?source=copy_link",
+        "tags": ["notion"],
+        "description": ""
+    },
+    "goodprompts": {
+        "url": "https://www.notion.so/svitlanamm/good-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link",
+        "tags": ["notion"],
+        "description": ""
+    },
+
+
+    "spacedrepetition": {
+        "url": "https://docs.google.com/spreadsheets/d/1kp8h0Vx9rjcC1EgsRXmaNilP_cmGj_S8vEo7GRjWQnU/edit?gid=0#gid=0",
+        "tags": ["sheet"],
+        "description": ""
+    },
     "pm-guide": {
         "url": "https://svitlanamm.notion.site/Hitchhiker-s-Guide-to-Product-Management-0035ff2aab8248fbb83e436319e26df6?source=copy_link",
         "tags": ["notion"],

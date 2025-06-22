@@ -7,6 +7,7 @@ see [our collection](https://svitlanamm.notion.site/expanding-inner-world-mind-g
 ### books and media
 see our collection of curious reads. full notion database with many notes is at [svitlana.me/yumm](https://svitlanamm.notion.site/6435b92ffe4b4404ad6ba8bb5ee171b0?v=1fa95a10886f8057aa53000c50c9fa48&pvs=143).
 <br/><br/>
+- western body, eastern mind by anodea judish. [notes.](https://svitlanamm.notion.site/western-body-eastern-mind-16d95a10886f806094aac8844ccf65a2?source=copy_link)
 - metaphors we live by by george lakoff and mark johnson. [notes.](https://svitlanamm.notion.site/Metaphors-we-live-by-ad0624d602d7491994f4500fd580c7b6?source=copy_link)
 - the computational boundary of the self by michael levin et al. [notes.]()
 - ai and the meaning crisis by john vervaeke et al. [notes.](https://svitlanamm.notion.site/AI-and-the-Meaning-Crisis-Redefining-Human-Flourishing-1c795a10886f80b6900fe84052ad69a8?source=copy_link)

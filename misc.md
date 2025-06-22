@@ -16,6 +16,7 @@
 <br/><br/>
 ### other
 - i have been collecting [good questions](https://www.notion.so/svitlanamm/Good-questions-b5f4904de13a4643b19c3bde26bc1913?pvs=4) over the years
+- collecting some good prompts here too [svitlana.me/goodprompts](https://www.notion.so/svitlanamm/good-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link)
 - here are some [travel recommendations](https://svitlanamm.notion.site/c1f9129e8ee6439186990a0cce91efc3?v=7daf37bf70b8486aa9598ceb3c56a5d9&pvs=4)
 - a telegram channel where i collect fun medias [#rabbitholing](https://t.me/Rabbitholing)
 - outdated [relationship builder](https://www.notion.so/svitlanamm/Relationship-Builder-aae98e8e08e246768ba278406e03cc2a?pvs=4)
