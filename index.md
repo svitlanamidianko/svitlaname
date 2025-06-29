@@ -2,7 +2,7 @@ hi internet friend, <br/><br/>
 i am svitlana and my mission is to cultivate 3C spaces - spaces that are Conscious, Curious, and Collective.
  <br/><br/>
 
-one of my technological expriments for holding such a space is [pond.space](https://www.pond.space/). it is a living journal for growing the self through mindful practice. [pond.space](https://www.pond.space/) is also our first try at creating an Experiential Software, think of it as both an app and a game at the same time. <br/><br/>
+one of my technological expriments for holding such a space is [pond.space](https://www.pond.space/). it is a living journal for growing the self through mindful practice and also our first attempt at creating Experiential Software that prioritizes journey over destination and feels like both app and a game at the same time.  <br/><br/>
 
 
 
