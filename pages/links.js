@@ -6,7 +6,7 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 
 export async function getServerSideProps() {
-  const filePath = path.join(process.cwd(), 'links.json');
+  const filePath = path.join(process.cwd(), 'pages', 'links.json');
   const fileContents = fs.readFileSync(filePath, 'utf8');
   const links = JSON.parse(fileContents);
   return { props: { links } };

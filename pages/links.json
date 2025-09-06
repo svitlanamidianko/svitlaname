@@ -24,9 +24,22 @@
         "tags": ["notion"],
         "description": ""
     },
-
-
-    "spacedrepetition": {
+    "youandme":{
+        "url": "https://svitlanamm.notion.site/feeling-good-with-other-beings-language-of-attunment-6af8bbbd332d494a89dce7097db05c91?source=copy_link",
+        "tags": ["notion"],
+        "description": ""
+    },
+    "googlebuilding": {
+        "url": "https://svitlanamm.notion.site/how-to-get-to-Google-building-25495a10886f8020a7d0d3ecc9a370e8?source=copy_link",
+        "tags": ["notion"],
+        "description": ""
+    },
+    "elements":{
+        "url": "https://docs.google.com/document/d/17HA9T23kjpfB8sn8TmczK-oVYIWTVF_nv3IDV0XvN3c/edit?tab=t.0",
+        "tags": ["doc"],
+        "description": ""
+    },
+    "spaced": {
         "url": "https://docs.google.com/spreadsheets/d/1kp8h0Vx9rjcC1EgsRXmaNilP_cmGj_S8vEo7GRjWQnU/edit?gid=0#gid=0",
         "tags": ["sheet"],
         "description": ""
