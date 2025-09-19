@@ -31,7 +31,7 @@
     },
     "form-translator": {
         "url": "https://form-translator.vercel.app/",
-        "tags": ,
+        "tags": ["vercel"],
         "description": ""
     },
     "googlebuilding": {
