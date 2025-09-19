@@ -29,6 +29,11 @@
         "tags": ["notion"],
         "description": ""
     },
+    "form-translator": {
+        "url": "https://form-translator.vercel.app/",
+        "tags": ,
+        "description": ""
+    },
     "googlebuilding": {
         "url": "https://svitlanamm.notion.site/how-to-get-to-Google-building-25495a10886f8020a7d0d3ecc9a370e8?source=copy_link",
         "tags": ["notion"],
