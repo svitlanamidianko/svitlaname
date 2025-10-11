@@ -9,7 +9,24 @@
         "tags": ["arena", "pond"],
         "description": ""
     },
-    "pmmindmap": {
+
+    "pondbudget": {
+        "url": "https://www.notion.so/svitlanamm/Shift-x-Pond-Budget-Breakdown-1da95a10886f8014a36cfb7b7761fead?pvs=4",
+        "tags": ["notion", "pond"],
+        "description": ""
+    },
+    "pondroadmap": {
+        "url": "https://www.notion.so/svitlanamm/Shift-x-Pond-Milestones-Roadmap-1da95a10886f80818c5bf3b1a100c84c?pvs=4",
+        "tags": ["notion", "pond"],
+        "description": ""
+    },
+
+    "pondarena": {
+        "url": "https://www.are.na/andre-vacha/pond-ngtmmhizvdy",
+        "tags": ["arena", "pond"],
+        "description": ""
+    },
+    "pmmindmaps": {
         "url": "https://whimsical.com/pm-frameworks-UNLctvjJtLdXVy3LYjKguE",
         "tags": ["whimsical"],
         "description": ""
@@ -19,19 +36,14 @@
         "tags": ["notion"],
         "description": ""
     },
+    "formtranslatordb": {
+        "url": "https://docs.google.com/spreadsheets/d/1sEnmusmz4X_18emilcsLFIn48nwM6qInLgQKN2rXC5M/edit?gid=0#gid=0",
+        "tags": ["notion"],
+        "description": ""
+    },
     "goodprompts": {
         "url": "https://www.notion.so/svitlanamm/good-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link",
         "tags": ["notion"],
-        "description": ""
-    },
-    "youandme":{
-        "url": "https://svitlanamm.notion.site/feeling-good-with-other-beings-language-of-attunment-6af8bbbd332d494a89dce7097db05c91?source=copy_link",
-        "tags": ["notion"],
-        "description": ""
-    },
-    "form-translator": {
-        "url": "https://form-translator.vercel.app/",
-        "tags": ["vercel"],
         "description": ""
     },
     "googlebuilding": {
@@ -49,7 +61,7 @@
         "tags": ["sheet"],
         "description": ""
     },
-    "pm-guide": {
+    "pmguide": {
         "url": "https://svitlanamm.notion.site/Hitchhiker-s-Guide-to-Product-Management-0035ff2aab8248fbb83e436319e26df6?source=copy_link",
         "tags": ["notion"],
         "description": ""
@@ -59,11 +71,7 @@
         "tags": ["notion"],
         "description": ""
     },
-    "pondarena": {
-        "url": "https://www.are.na/andre-vacha/pond-ngtmmhizvdy",
-        "tags": ["arena", "pond"],
-        "description": ""
-    },
+
     "inniodrishti": {
         "url": "https://www.notion.so/svitlanamm/drishti-list-1aa95a10886f800a95c3c4eb949ad0d9?pvs=4",
         "tags": ["notion", "pond"],
@@ -84,7 +92,7 @@
         "tags": ["mmm"],
         "description": ""
     },
-    "helpmyUAfriend": {
+    "helpukraine": {
         "url": "https://svitlanamm.notion.site/fundraiser-for-my-school-friend-dima-serving-in-ukrainian-army-1b795a10886f80489e73db5ceced46b0?pvs=4",
         "tags": ["ukraine"],
         "description": ""
@@ -94,7 +102,7 @@
         "tags": ["slides", "svitlana"],
         "description": ""
     },
-    "howtotakecare": {
+    "howtotakecareofme": {
         "url": "https://svitlanamm.notion.site/how-to-take-care-of-svitlana-6c3f2dc731f742b7bdb22d11bedf9da9?pvs=4",
         "tags": ["notion"],
         "description": ""
@@ -144,6 +152,11 @@
         "tags": ["notion"],
         "description": ""
     },
+    "youandme":{
+        "url": "https://svitlanamm.notion.site/feeling-good-with-other-beings-language-of-attunment-6af8bbbd332d494a89dce7097db05c91?source=copy_link",
+        "tags": ["notion"],
+        "description": ""
+    },
     "friendsgifts": {
         "url": "https://svitlanamm.notion.site/gifts-from-my-family-of-friends-to-my-family-of-friends-1ce95a10886f802ab9f0dd7755516fd1?pvs=4",
         "tags": ["notion"],
@@ -152,11 +165,6 @@
     "26": {
         "url": "https://iseebday.vercel.app/",
         "tags": ["vercel", "birthday"],
-        "description": ""
-    },
-    "bdayblend": {
-        "url": "https://open.spotify.com/blend/taste-match/1c74c3c44a1b762c?si=HV5v454CQHK53nV1bb9Zog&fallback=getapp&blendDecoration=5f9c38d2",
-        "tags": ["spotify", "birthday"],
         "description": ""
     },
     "26transcript": {
@@ -184,27 +192,13 @@
         "tags": ["sheet"],
         "description": ""
     },
-    "birthdayblend": {
-        "url": "https://open.spotify.com/blend/taste-match/3ea9d363a2c0bd5b?si=kHaWkW0uTJa_R__Zjl_htA&fallback=getapp&blendDecoration=5f9c38d2",
-        "tags": ["spotify"],
-        "description": ""
-    },
-    "pondbudget": {
-        "url": "https://www.notion.so/svitlanamm/Shift-x-Pond-Budget-Breakdown-1da95a10886f8014a36cfb7b7761fead?pvs=4",
-        "tags": ["notion", "pond"],
-        "description": ""
-    },
-    "pondroadmap": {
-        "url": "https://www.notion.so/svitlanamm/Shift-x-Pond-Milestones-Roadmap-1da95a10886f80818c5bf3b1a100c84c?pvs=4",
-        "tags": ["notion", "pond"],
-        "description": ""
-    },
+
     "thoughtsonyoga": {
         "url": "https://tally.so/r/3xo6Md",
         "tags": ["tally", "yoga"],
         "description": ""
     },
-    "matchmake": {
+    "matchmaker": {
         "url": "https://svitlanamm.notion.site/svitlana-s-matchmaking-experiment-19a95a10886f80ea9c03fa3e3410d52b?pvs=4",
         "tags": ["notion"],
         "description": ""
@@ -214,9 +208,14 @@
         "tags": ["doc"],
         "description": ""
     },
-    "yt-whoiam": {
+    "youtubewhoiam": {
         "url": "https://www.youtube.com/watch?v=TXq9SCKkGtE",
         "tags": ["youtube", "pond"],
         "description": ""
-    }
+    }, 
+    "youtube1":{
+        "url": "https://www.youtube.com/watch?v=LC5Y9FKsY-Y", 
+        "tags": ["youtube"],
+        "description": ""
+        }
 }
