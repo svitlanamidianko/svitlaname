@@ -1,6 +1,6 @@
 hi human bean, welcome to this frame of the world 🐌 
 <br/><br/> 
-my name is Svitlana and i am a Life Artist intending to cultivate 3C spaces - spaces that are Consious, Curious, and Collective. i unfold multitudes of identities to support such a 3C construction and lately Yoga Teacher, [Coach](https://svitlana.mmm.page/coach), and Technologist have been most alive and playful 🛝 :) 
+my name is Svitlana and i am a Life Artist intending to cultivate 3C spaces - spaces that are Consious, Curious, and Collective. with multitude of identities withing me, i observe how Yoga Teacher, [Coach](https://svitlana.mmm.page/coach), and Technologist have been the most alive and playful lately🛝 :) 
 <br/><br/><br/><br/>
 here are some of my recent 3C-anchored creations: 
 <br/><br/>
