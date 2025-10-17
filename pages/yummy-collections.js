@@ -56,13 +56,13 @@ export default function YummyCollections({ contentHtml }) {
         </div>
         <Footer />
       </div>
-      <style jsx>{`
-        /* Scope link color override to the markdown content on this page */
+      <style jsx global>{`
+        /* Markdown links: lighter by default, darker on hover; global to affect raw HTML */
         .div-block-5 .paragraph a {
-          color: var(--neutral-600);
+          color: var(--neutral-500) !important;
         }
         .div-block-5 .paragraph a:hover {
-          color: var(--neutral-700);
+          color: var(--neutral-600) !important;
         }
       `}</style>
     </>

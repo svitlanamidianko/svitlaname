@@ -1,10 +1,11 @@
 ### Offerings
 - let me exercise my coaching skill with you. [svitlana.me/coach](https://svitlana.mmm.page/coach)
-- let me guide you through your product manager career journey - [svitlana.me/pm](https://svitlanamm.notion.site/Let-me-help-you-prep-for-your-PM-APM-journey-f2da21ffd95446ca815a5d805a7f0f6f?pvs=4). also check out my minerva capstone project, aka a guide to a traditional PMing - [svitlana.me/pm-guide](https://svitlanamm.notion.site/Hitchhiker-s-Guide-to-Product-Management-0035ff2aab8248fbb83e436319e26df6?source=copy_link).
+- let me guide you through your Product Manager career journey - [svitlana.me/pm](https://svitlanamm.notion.site/Let-me-help-you-prep-for-your-PM-APM-journey-f2da21ffd95446ca815a5d805a7f0f6f?pvs=4). also check out my minerva capstone project, aka a guide to a traditional PMing - [svitlana.me/pm-guide](https://svitlanamm.notion.site/Hitchhiker-s-Guide-to-Product-Management-0035ff2aab8248fbb83e436319e26df6?source=copy_link).
 - let me teach you yoga and help me grow my baby skill of yoga teacher - [svitlana.me/yoga](https://partiful.com/e/H3B3Sfbio4sV0k92n5qG). also check out my teacher Nikita Mehta. 
 - i am always running a matchmaking experiment on the background. lmk if you wanna be added to a lo-fi notion list of single seeker friends of mine or if you wanna see it.
 - [are.na](https://www.are.na/svitlana-midianko/be-not-be-non-duality) is amazing
 - [curius.app](https://curius.app/svitlana-midianko2) is amazing too... see you there? 
+- svitlanaing telegram channel that i treat as a sociotechnological experiment [here](https://t.me/svitlanainghere).
 <br/><br/>
 <br/><br/>
 ### Asks
