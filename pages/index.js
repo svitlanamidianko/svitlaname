@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
+import Slideshow from '../components/Slideshow'
 import fs from 'fs'
 import path from 'path'
 import { remark } from 'remark'
@@ -47,7 +48,7 @@ export default function Home({ contentHtml }) {
                 <div className="paragraph" dangerouslySetInnerHTML={{ __html: contentHtml }} />
               </div>
               <div className="split-content home-hero-right">
-                <img src="/images/photo_2023-03-26-19.40.50.jpeg" alt="" sizes="(max-width: 479px) 87vw, (max-width: 767px) 297.998046875px, (max-width: 991px) 36vw, 297.998046875px" srcSet="/images/photo_2023-03-26-19.40.50-p-500.jpeg 500w, /images/photo_2023-03-26-19.40.50.jpeg 640w" className="image home-hero" />
+                <Slideshow className="image home-hero" />
               </div>
             </div>
           </div>

@@ -1411,6 +1411,7 @@ figcaption {
 
 .split-content.home-hero-right {
   max-width: 298px;
+  margin-top: 4px;
 }
 
 .split-content.blog-left {
@@ -1441,7 +1442,7 @@ figcaption {
 
 .home-hero-wrapper {
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   display: flex;
 }
 

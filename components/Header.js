@@ -30,6 +30,9 @@ export default function Header() {
               <li className="nav-item-wrapper">
                 <a href="https://www.pond.space/" className="nav-link">pond.space</a>
               </li>
+              <li className="nav-item-wrapper">
+                <a href="https://formtranslator.com" className="nav-link">formtranslator.com</a>
+              </li>
             </ul>
           </nav>
         </div>
@@ -92,6 +95,7 @@ export default function Header() {
           <li style={{ margin: '30px 0' }}><a href="/writing" className="nav-link mobile-menu-link" style={{ color: '#fff', textDecoration: 'none', paddingLeft: '2.5rem', display: 'block' }} onClick={() => setMenuOpen(false)}>writings</a></li>
           <li style={{ margin: '30px 0' }}><a href="/misc-pour" className="nav-link mobile-menu-link" style={{ color: '#fff', textDecoration: 'none', paddingLeft: '2.5rem', display: 'block' }} onClick={() => setMenuOpen(false)}>misc pour</a></li>
           <li style={{ margin: '30px 0' }}><a href="https://www.pond.space/" className="nav-link mobile-menu-link" style={{ color: '#fff', textDecoration: 'none', paddingLeft: '2.5rem', display: 'block' }} onClick={() => setMenuOpen(false)}>pond.space</a></li>
+          <li style={{ margin: '30px 0' }}><a href="https://formtranslator.com" className="nav-link mobile-menu-link" style={{ color: '#fff', textDecoration: 'none', paddingLeft: '2.5rem', display: 'block' }} onClick={() => setMenuOpen(false)}>formtranslator.com</a></li>
         </ul>
       </div>
       {/* Responsive styles for mobile/desktop nav */}

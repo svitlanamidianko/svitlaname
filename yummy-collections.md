@@ -1,11 +1,15 @@
 
-### inner work drills
+### Inner Work Drills [[svitlana.me/InnerWorldPractices](https://svitlanamm.notion.site/expanding-inner-world-mind-gymnastics-practices-e9e5e6a88cd14c31ae950a31771e3cb6?source=copy_link)]
+a collection of practices to expand the inner world and tweak your mindset towards a Desired State of Being. 
+<br/><br/>
+<br/><br/>
 
-see [our collection](https://svitlanamm.notion.site/expanding-inner-world-mind-gymnastics-practices-e9e5e6a88cd14c31ae950a31771e3cb6?source=copy_link) of practices to expand inner world and tweak your mind towards the desired state of being. 
+### Feeling Good With Other Humans [[svitlana.me/YouAndMe](https://svitlanamm.notion.site/feeling-good-with-other-beings-language-of-attunment-6af8bbbd332d494a89dce7097db05c91?source=copy_link)]
+a collection of phrases to attune and exchange compassion with other human beans.
 <br/><br/>
 <br/><br/>
-### books and media
-see our collection of curious reads. full notion database with many notes is at [svitlana.me/yumm](https://svitlanamm.notion.site/6435b92ffe4b4404ad6ba8bb5ee171b0?v=1fa95a10886f8057aa53000c50c9fa48&pvs=143).
+### Curious Books and Media [[svitlana.me/Yumm](https://svitlanamm.notion.site/6435b92ffe4b4404ad6ba8bb5ee171b0?v=1fa95a10886f8057aa53000c50c9fa48&source=copy_link)]
+a collection of curious reads and media. for example:
 <br/><br/>
 - western body, eastern mind by anodea judish. [notes.](https://svitlanamm.notion.site/western-body-eastern-mind-16d95a10886f806094aac8844ccf65a2?source=copy_link)
 - metaphors we live by by george lakoff and mark johnson. [notes.](https://svitlanamm.notion.site/Metaphors-we-live-by-ad0624d602d7491994f4500fd580c7b6?source=copy_link)
@@ -26,4 +30,19 @@ see our collection of curious reads. full notion database with many notes is at 
 - how to change your mind by michael pollan. [notes.](https://svitlanamm.notion.site/How-to-change-your-mind-65703b4e0e4140e4957f77163814bcac?source=copy_link)
 - inventing on principle by bret victor. [notes.](https://svitlanamm.notion.site/inventing-on-principle-bfd49a1922d94a1bbc43a881dbf7e6d2?source=copy_link)
 - everything is a remix. [video.](https://www.youtube.com/watch?v=X9RYuvPCQUA&t=1545s)
-
+<br/><br/>
+<br/><br/>
+### Good Questons
+i have been collecting [good questions](https://www.notion.so/svitlanamm/Good-questions-b5f4904de13a4643b19c3bde26bc1913?pvs=4) over the years.
+<br/><br/>
+<br/><br/>
+### Good Prompts
+i also have collecting some good prompts here too [svitlana.me/goodprompts](https://www.notion.so/svitlanamm/good-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link).
+<br/><br/>
+<br/><br/>
+### Svitlana-ing Telegram Channel
+[here](https://t.me/svitlanainghere).
+<br/><br/>
+<br/><br/>
+### Rabbithole-ing Telegram Channel 
+[here](https://t.me/Rabbitholing).
