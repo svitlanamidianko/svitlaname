@@ -218,9 +218,24 @@
         "tags": ["doc"],
         "description": ""
     },
+    "formTranslatorPrompt":{
+        "url": "https://svitlanamm.notion.site/form-translator-prompt-and-philosophical-meta-stuff-29095a10886f805da6f6c37047343e79?source=copy_link",
+        "tags": ["notion"],
+        "description": ""
+    }, 
+    "formTranslatorDB":{
+        "url": "https://docs.google.com/spreadsheets/d/1sEnmusmz4X_18emilcsLFIn48nwM6qInLgQKN2rXC5M/edit?gid=0#gid=0",
+        "tags": ["sheet"],
+        "description": ""
+    }, 
     "extraordinary":{
         "url": "https://svitlanamm.notion.site/Svitlana-Midianko-s-EB1A-or-EB2NIW-case-23495a10886f8076b72bd4fbe4a64f64?source=copy_link",
         "tags": ["notion"],
+        "description": ""
+    },
+    "svitlanaingtg":{
+        "url": "https://t.me/svitlanainghere",
+        "tags": ["telegram"],
         "description": ""
     },
     "youtubewhoiam": {
