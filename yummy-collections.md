@@ -1,5 +1,5 @@
 
-### Inner Work Practices [\[svitlana.me/InnerWorldPractices\]](https://svitlanamm.notion.site/expanding-inner-world-mind-gymnastics-practices-e9e5e6a88cd14c31ae950a31771e3cb6?source=copy_link)
+### Inner Work Practices [\[svitlana.me/self-practices]](https://svitlanamm.notion.site/expanding-inner-world-mind-gymnastics-practices-e9e5e6a88cd14c31ae950a31771e3cb6?source=copy_link)
 a collection of practices to expand our inner world and feel safe and love in your human organism. 
 <br/><br/>
 <br/><br/>
@@ -8,7 +8,7 @@ a collection of practices to expand our inner world and feel safe and love in yo
 a collection of practices to attune and exchange compassion with other human beans, including conflict resolution. 
 <br/><br/>
 <br/><br/>
-### Curious Books and Media [\[svitlana.me/Yumm\]](https://svitlanamm.notion.site/6435b92ffe4b4404ad6ba8bb5ee171b0?v=1fa95a10886f8057aa53000c50c9fa48&source=copy_link)
+### Curious Books and Media [\[svitlana.me/yumm\]](https://svitlanamm.notion.site/6435b92ffe4b4404ad6ba8bb5ee171b0?v=1fa95a10886f8057aa53000c50c9fa48&source=copy_link)
 a collection of curious reads and media. for example:
 <br/><br/>
 - western body, eastern mind by anodea judish. [notes.](https://svitlanamm.notion.site/western-body-eastern-mind-16d95a10886f806094aac8844ccf65a2?source=copy_link)
