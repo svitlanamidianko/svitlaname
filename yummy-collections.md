@@ -1,10 +1,10 @@
 
-### Inner Work Practices [\[svitlana.me/self-practices]](https://svitlanamm.notion.site/expanding-inner-world-mind-gymnastics-practices-e9e5e6a88cd14c31ae950a31771e3cb6?source=copy_link)
+### Inner Work Practices [svitlana.me/self-practices](https://svitlanamm.notion.site/expanding-inner-world-mind-gymnastics-practices-e9e5e6a88cd14c31ae950a31771e3cb6?source=copy_link)
 a collection of practices to expand our inner world and feel safe and love in your human organism. 
 <br/><br/>
 <br/><br/>
 
-### Feeling Good With Other Humans [\[svitlana.me/YouAndMe\]](https://svitlanamm.notion.site/feeling-good-with-other-beings-language-of-attunment-6af8bbbd332d494a89dce7097db05c91?source=copy_link)
+### Feeling Good With Other Humans [svitlana.me/you-and-me](https://svitlanamm.notion.site/feeling-good-with-other-beings-language-of-attunment-6af8bbbd332d494a89dce7097db05c91?source=copy_link)
 a collection of practices to attune and exchange compassion with other human beans, including conflict resolution. 
 <br/><br/>
 <br/><br/>
