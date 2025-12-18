@@ -32,9 +32,9 @@ here are some places i have been involved with.
 - Minerva University - graduated with a CS degree.
 - Google - currently a Product Manager at Ads (yes, i am a creature of living contradictions).
 - Edge Esmeralda.
-- Circus Center - acrobatics & handstands training for last 2 years with Christopher Roguskie.
+- Circus Center - acrobatics & handstands training with Christopher Roguskie.
 - Google Women Techmakers Scholar.
-- Ukraine - born and raised with a family living in [Chervonohrad](https://en.wikipedia.org/wiki/Sheptytskyi); unafraid to ask me about effects of the war.
+- Ukraine - born and raised with a family living in [Chervonohrad](https://en.wikipedia.org/wiki/Sheptytskyi); be unafraid to ask me about effects of the war.
 - Bessemer Ventures - a college fellow.
 - European Youth Parliament - an ex-chairwoman and international delegate.
 - Human Computer Integration lab at UChicago - co-authored a [paper](https://dl.acm.org/doi/10.1145/3586183.3606747).

@@ -1,4 +1,4 @@
-hi internet friend, welcome in 🌻 
+hi internet friend, welcome in 🌲
 <br/><br/> 
 <br/><br/>
 i am Svitlana and i enjoy creating **3C spaces - spaces that are Consious, Curious, and Collective**. here are some ways i do it:
