@@ -3,7 +3,6 @@ hi internet friend, welcome in 🌻
 <br/><br/>
 i am Svitlana and i enjoy creating **3C spaces - spaces that are Consious, Curious, and Collective**. here are some ways i do it:
 <br/><br/>
-<br/><br/>
 🌱 as a **Yoga Teacher**, i create 3C spaces with breath and movement. 
 <br/><br/> 
 🌱 as a **Technologist** and **Mindware Engineer**, i create 3C spaces with code and APIs. 
