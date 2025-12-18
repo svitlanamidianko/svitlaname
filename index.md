@@ -1,19 +1,23 @@
 hi internet friend, welcome in 🌲
 <br/><br/> 
 <br/><br/>
-i am Svitlana and i enjoy creating **3C spaces - spaces that are Consious, Curious, and Collective**. here are some ways i do it:
+i am Svitlana and i care about creating **Consious, Curious, and Collective spaces** which I call 3C spaces. here are of my roles that help me with that:
 <br/><br/>
-🌱 as a **Yoga Teacher**, i create 3C spaces with breath and movement. 
+🌱 **Yoga Teacher** and **Acrobat**
 <br/><br/> 
-🌱 as a **Technologist** and **Mindware Engineer**, i create 3C spaces with code and APIs. 
-<br/><br/>
-🌱 as a **[Coach](https://svitlana.mmm.page/coach)**, i create 3C spaces with attention and care. 
-<br/><br/>
-🌱 as a **Life Artist**, i create 3C spaces with my being and expression.
+🌱 **Technologist** and **Mindware Engineer** and **Product Leader**
 <br/><br/> 
-🌱 as a **[Writer](https://svitlanamm.substack.com/)**, i create 3C spaces with words and metaphors. 
+🌱  **Coach**
+<br/><br/>
+🌱 **Life Artist**
+<br/><br/> 
+🌱 **Writer**
+<br/><br/> 
+🌱 **Clown**
+<br/><br/> 
+🌱 **Main Character of my Inner Sitcom**
 <br/><br/>
 <br/><br/>
-huggingly, 
+huggingly from a peaceful place among trees of San Francisco, 
 <br/>
 svitlanaing at gmail com 

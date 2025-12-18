@@ -26,6 +26,7 @@
 here are some places i have been involved with.
 <br/><br/>
 - Nikita Mehta - yoga teacher supporting my journey as a teacher.
+- [Kathleen Wallace](https://www.kathleenwallace.com/) - my coach.
 - Sleepawake.camp - amazing school that helped me transition into fuller version of me. 
 - Church of Clown - taking Clown 2 classes.
 - Aletheia Unfolding - taking an L1 coaching training.
