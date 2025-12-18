@@ -5,9 +5,9 @@ i am Svitlana and i care about creating **Consious, Curious, and Collective spac
 <br/><br/>
 i do so through multitude of roles:
 <br/><br/>
-🌱 **Yoga Teacher** and **Acrobat**
+🌱 **Yoga Teacher** & **Acrobat**
 <br/><br/> 
-🌱 **Technologist** and **Mindware Engineer** and **Product Leader**
+🌱 **Technologist** & **Mindware Engineer** & **Product Leader**
 <br/><br/> 
 🌱  **Coach**
 <br/><br/>
@@ -15,9 +15,9 @@ i do so through multitude of roles:
 <br/><br/> 
 🌱 **Writer**
 <br/><br/> 
-🌱 **Clown**
+🌱 **Clown** & **Main Character of my Inner Sitcom**
 <br/><br/> 
-🌱 **Main Character of my Inner Sitcom**
+🌱 **Curator**
 <br/><br/>
 <br/><br/>
 huggingly from a peaceful place among trees of San Francisco, 
