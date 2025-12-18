@@ -19,6 +19,7 @@ i do so through multitude of roles:
 <br/><br/> 
 🌱 **Curator**
 <br/><br/>
+these days i direct my attention to pond.space, expanding the area of safety and security within Self, and rigidifying my boundaries. 
 <br/><br/>
 huggingly from a peaceful place among trees of San Francisco, 
 <br/>
