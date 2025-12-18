@@ -6,7 +6,7 @@ export default function Footer() {
       </div>
       <div className="container-footer">
         <div className="footer-nav-link">
-          <a style={{ color: '#C0C0C0' }} href="https://www.notion.so/ssmidianko/Fundraising-for-Ukraine-4054ff4f8fa4423f8e031fbe886874b0" target="_blank" rel="noopener noreferrer" className="link-3">help ukraine</a>
+          <a style={{ color: '#C0C0C0' }} href="https://www.instagram.com/svitlanaing/" target="_blank" rel="noopener noreferrer" className="link-3">instagram</a>
         </div>
         <div className="footer-nav-link">
           <a style={{ color: '#C0C0C0' }} href="https://twitter.com/svitlana_mm" target="_blank" rel="noopener noreferrer">twitter</a>
@@ -23,6 +23,7 @@ export default function Footer() {
         <div className="footer-nav-link">
           <a style={{ color: '#C0C0C0' }} href="https://svitlanamm.substack.com/" target="_blank" rel="noopener noreferrer" className="link-3">substack</a>
         </div>
+
       </div>
     </footer>
   );
