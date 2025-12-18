@@ -7,13 +7,6 @@
         ],
         "description": ""
     },
-    "chakrasbook": {
-        "url": "https://svitlanamm.notion.site/western-body-eastern-mind-16d95a10886f806094aac8844ccf65a2?source=copy_link",
-        "tags": [
-            "notion"
-        ],
-        "description": ""
-    },
     "good-prompts": {
         "url": "https://www.notion.so/svitlanamm/good-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link",
         "tags": [
@@ -39,13 +32,6 @@
     },
     "pm-guide": {
         "url": "https://svitlanamm.notion.site/Hitchhiker-s-Guide-to-Product-Management-0035ff2aab8248fbb83e436319e26df6?source=copy_link",
-        "tags": [
-            "notion"
-        ],
-        "description": ""
-    },
-    "highlist": {
-        "url": "https://svitlanamm.notion.site/High-List-01cafc3cff3740969e2f900cd5a1ffa1?source=copy_link",
         "tags": [
             "notion"
         ],
@@ -109,7 +95,7 @@
         "description": ""
     },
     "yumm": {
-        "url": "https://svitlanamm.notion.site/6435b92ffe4b4404ad6ba8bb5ee171b0?v=fcdce166b1f946178f621820bdc220b5&pvs=4",
+        "url": "/6435b92ffe4b4404ad6ba8bb5ee171b0?v=1fa95a10886f8057aa53000c50c9fa48&source=copy_link",
         "tags": [
             "notion",
             "curator"
@@ -333,6 +319,36 @@
     },
     "good-questions": {
         "url": "/good-questions-b5f4904de13a4643b19c3bde26bc1913?source=copy_link",
+        "tags": [
+            "notion",
+            "curator"
+        ],
+        "description": ""
+    },
+    "high-list": {
+        "url": "https://svitlanamm.notion.site/High-List-01cafc3cff3740969e2f900cd5a1ffa1?source=copy_link",
+        "tags": [
+            "notion"
+        ],
+        "description": ""
+    },
+    "chakras-book": {
+        "url": "https://svitlanamm.notion.site/western-body-eastern-mind-16d95a10886f806094aac8844ccf65a2?source=copy_link",
+        "tags": [
+            "notion"
+        ],
+        "description": ""
+    },
+    "yumm-self": {
+        "url": "/6435b92ffe4b4404ad6ba8bb5ee171b0?v=7b0d74d812044adb8f06e3de2ef461a5&source=copy_link",
+        "tags": [
+            "notion",
+            "curator"
+        ],
+        "description": ""
+    },
+    "yumm-tech": {
+        "url": "/6435b92ffe4b4404ad6ba8bb5ee171b0?v=fcdce166b1f946178f621820bdc220b5&source=copy_link",
         "tags": [
             "notion",
             "curator"
