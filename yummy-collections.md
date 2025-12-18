@@ -36,7 +36,7 @@ a collection of curious reads and media. for example:
 i have been collecting [good questions](https://www.notion.so/svitlanamm/Good-questions-b5f4904de13a4643b19c3bde26bc1913?pvs=4) over the years.
 <br/><br/>
 <br/><br/>
-### Good Prompts 
+### Good Prompts   [\[svitlana.me/good-prompts\]](https://www.notion.so/good-prompts-svitlana-me-good-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link) 
 i also have collecting some good prompts here too [svitlana.me/goodprompts](https://www.notion.so/svitlanamm/good-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link).
 <br/><br/>
 <br/><br/>
