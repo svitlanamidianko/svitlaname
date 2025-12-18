@@ -9,13 +9,12 @@
 <br/><br/>
 <br/><br/>
 ### Asks
-- i am building a mindware of Innio, an AI Being living in [pond.space](https://www.pond.space/). i seek deepening of my prompt optimization and agent architecture skills.
-- part of me is a clown, newly born and sooo green. i seek playgrounds to grow it - classes, books, other clowns around? comedy and standup playgroundgrounds too!
+- i am engineering mindware of Innio, an AI Being living in [pond.space](https://www.pond.space/). i always seek newest hot prompt engineering techniques & papers, smart minds to bounce agent architecture ideas with, and feedback! 
 - i am seeking resources to deepen my understanding of mind, perception, and memory. i am  especially curious for those using visual / poetic metaphors and bayesian-inspired examples.
 - i am always seeking feedback on my experiential software projects.
 - help me understand what is wrong with Integral Theory besides it being a Superior Complex Amplifier.
 - seeking knowledge on business of apps and learning how to wear an Entepreneour hat.
-- help my international minerva friends to have visas and stay in here :(
+- help my international minerva friends to have visas (O1s and EB1As) and stay in here :(
 
 
 <br/><br/>
@@ -23,6 +22,7 @@
 ### Curious Entities 
 here are some places i have been involved with.
 <br/><br/>
+- Church of Clown - taking Clown 2 classes 
 - Aletheia Unfolding - taking an L1 coaching training
 - Minerva University - graduated with a CS degree
 - Google - currently a Product Manager at Ads (yes, i am a creature of living contradictions)
