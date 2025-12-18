@@ -37,6 +37,6 @@ i have been collecting [good questions](https://www.notion.so/svitlanamm/Good-qu
 <br/><br/>
 <br/><br/>
 ### Good Prompts   [\[svitlana.me/good-prompts\]](https://www.notion.so/good-prompts-svitlana-me-good-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link) 
-i also have collecting some good prompts here too [svitlana.me/goodprompts](https://www.notion.so/svitlanamm/good-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link).
+i also have collecting some good prompts here too [svitlana.me/good-prompts](https://www.notion.so/svitlanamm/good-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link).
 <br/><br/>
 <br/><br/>

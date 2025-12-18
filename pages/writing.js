@@ -19,16 +19,15 @@ export default function Writing() {
         <div className="section blog">
           <div className="container-medium-768px w-container">
             <div className="div-block-5">
-           
               <div style={{ display: "flex", justifyContent: "center", marginTop: 32 }}>
-                <div data-supascribe-embed-id="106284883900" data-supascribe-feed></div>
+                <div data-supascribe-embed-id="650626461011" data-supascribe-subscribe></div>
               </div>
               <br></br>
               <br></br>
               <br></br>
-     
+           
               <div style={{ display: "flex", justifyContent: "center", marginTop: 32 }}>
-                <div data-supascribe-embed-id="650626461011" data-supascribe-subscribe></div>
+                <div data-supascribe-embed-id="106284883900" data-supascribe-feed></div>
               </div>
               <br></br>
               <br></br>

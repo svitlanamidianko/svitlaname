@@ -1,10 +1,10 @@
 ### Offerings
-- Aletheia Life Coaching: [svitlana.me/coach](https://svitlana.mmm.page/coach)ю
-- Product Manager Career Guide: [svitlana.me/pm](https://svitlanamm.notion.site/Let-me-help-you-prep-for-your-PM-APM-journey-f2da21ffd95446ca815a5d805a7f0f6f?pvs=4)ю
+- Aletheia Life Coaching: [svitlana.me/coach](https://svitlana.mmm.page/coach).
+- Product Manager Career Guide: [svitlana.me/pm](https://svitlanamm.notion.site/Let-me-help-you-prep-for-your-PM-APM-journey-f2da21ffd95446ca815a5d805a7f0f6f?pvs=4).
 - Product Management Frameworks Guide: [svitlana.me/pm-guide](https://svitlanamm.notion.site/Hitchhiker-s-Guide-to-Product-Management-0035ff2aab8248fbb83e436319e26df6?source=copy_link).
 - Yoga Classes in San Francisco: [svitlana.me/yoga](https://partiful.com/e/H3B3Sfbio4sV0k92n5qG). 
 - Matchmaking of my single seeker friends: let me know if you want to see or be added to my database of single friends. 
-- Curated collections of awesome media: [svitlana.me/nondual-areana](https://www.are.na/svitlana-midianko/be-not-be-non-duality).
+- Curated collections of awesome media: [svitlana.me/nondual-arena](https://www.are.na/svitlana-midianko/be-not-be-non-duality).
 - Svitlanaing telegram channel: [svitlana.me/tg](https://t.me/svitlanainghere).
 <br/><br/>
 <br/><br/>
