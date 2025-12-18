@@ -32,11 +32,11 @@ a collection of curious reads and media. for example:
 - everything is a remix. [video.](https://www.youtube.com/watch?v=X9RYuvPCQUA&t=1545s)
 <br/><br/>
 <br/><br/>
-### Good Questions
+### Good Questions [\[svitlana.me/good-questions\]](https://www.notion.so/good-questions-b5f4904de13a4643b19c3bde26bc1913?source=copy_link) 
 i have been collecting [good questions](https://www.notion.so/svitlanamm/Good-questions-b5f4904de13a4643b19c3bde26bc1913?pvs=4) over the years.
 <br/><br/>
 <br/><br/>
-### Good Prompts
+### Good Prompts 
 i also have collecting some good prompts here too [svitlana.me/goodprompts](https://www.notion.so/svitlanamm/good-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link).
 <br/><br/>
 <br/><br/>
