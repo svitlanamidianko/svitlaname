@@ -4,8 +4,8 @@
 - Product Management Frameworks Guide: [svitlana.me/pm-guide](https://svitlanamm.notion.site/Hitchhiker-s-Guide-to-Product-Management-0035ff2aab8248fbb83e436319e26df6?source=copy_link).
 - Yoga Classes in San Francisco: [svitlana.me/yoga](https://partiful.com/e/H3B3Sfbio4sV0k92n5qG). 
 - Matchmaking of my single seeker friends: let me know if you want to see or be added to my database of single friends. 
-- Curated collections of awesome media: [in are.na](https://www.are.na/svitlana-midianko/be-not-be-non-duality).
-- Svitlanaing telegram channel: [here](https://t.me/svitlanainghere).
+- Curated collections of awesome media: [svitlana.me/nondual-areana](https://www.are.na/svitlana-midianko/be-not-be-non-duality).
+- Svitlanaing telegram channel: [svitlana.me/tg](https://t.me/svitlanainghere).
 <br/><br/>
 <br/><br/>
 

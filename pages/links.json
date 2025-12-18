@@ -257,13 +257,6 @@
         ],
         "description": ""
     },
-    "svitlanaing-tg": {
-        "url": "https://t.me/svitlanainghere",
-        "tags": [
-            "telegram"
-        ],
-        "description": ""
-    },
     "who-im-yt": {
         "url": "https://www.youtube.com/watch?v=TXq9SCKkGtE",
         "tags": [
@@ -352,6 +345,13 @@
         "tags": [
             "notion",
             "curator"
+        ],
+        "description": ""
+    },
+    "tg": {
+        "url": "https://t.me/svitlanainghere",
+        "tags": [
+            "telegram"
         ],
         "description": ""
     }
