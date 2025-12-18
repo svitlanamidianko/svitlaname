@@ -1,13 +1,14 @@
-hi human bean, welcome to this frame of the world 🐌 
+hi internet friend, welcome in 🌻 
 <br/><br/> 
-my name is Svitlana and i am a Life Artist who cultivates 3C spaces - spaces that are Consious, Curious, and Collective. with multitude of identities within me, i observe how Yoga Teacher, [Coach](https://svitlana.mmm.page/coach), and Technologist have been most alive and playful lately🛝 
-<br/><br/><br/><br/>
-here are some of my recent 3C-anchored creations: 
+i am Svitlana and i enjoy creating 3C spaces - spaces that are Consious, Curious, and Collective. here are some ways i do it. 
+<br/><br/> 
+as a Yoga Teacher, i create 3C spaces with breath and movement. 
+<br/><br/> 
+as a Technologist, i create 3C spaces with code and color. 
 <br/><br/>
-[1] [Pond.Space](https://www.pond.space/) - a digital journal with an AI Fish swimming around as your mindful witness and teacher. Pond is [our](curlprojects.com) first Experiential Software experiment, blending the vibes of both an app and a game. 
+as a [Coach](https://svitlana.mmm.page/coach), i create 3C spaces with attention and care. 
 <br/><br/>
-[2] [FormTranslator.com](formtranslator.com) - a tool for translating between Ontological Forms. it is as if the same Fuzzy and Ineffable is wearing different "vocabulary clothes." <br/><br/>
-[3] [Garden of Infinite selves](https://svitlanamm.substack.com/i/175916691/garden-of-infinite-selves-is-my-new-life-long-art-project-each-flower-represents-an-infinite-self-within-me-inspired-by-ifs-frame-of-thinking-internal-family-systems-ifs-is-a-form-of-therapy-that-breaks-down-the-single-self-into-a-family-of-selves-each-with-its-own-needs-and-desires) - an art project with each Flower representing an Infinite Self within me inspired by IFS frame of thinking.
+as a Life Artist, i create 3C spaces with my being and expression.
 <br/><br/>
 <br/><br/>
 as a high-energy [kid](https://open.spotify.com/playlist/58Zr64aZwD3LVVUmi0TOWJ?si=ba74119b794546db), i play in wide range of games: sometimes as an acrobat [upside down]((https://www.instagram.com/svitlana_moves/)), sometimes as a geeky PM at Google, sometimes as a [storyteller](https://www.youtube.com/watch?v=LC5Y9FKsY-Y), and most often as the main character of my own inner sitcom. 
