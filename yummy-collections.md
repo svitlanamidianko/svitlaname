@@ -1,5 +1,5 @@
 
-### Inner Work Practices [\[svitlana.me/self-practices\]](https://svitlanamm.notion.site/expanding-inner-world-mind-gymnastics-practices-e9e5e6a88cd14c31ae950a31771e3cb6?source=copy_link)
+### Inner Work & Self Art Practices [\[svitlana.me/self-practices\]](https://svitlanamm.notion.site/expanding-inner-world-mind-gymnastics-practices-e9e5e6a88cd14c31ae950a31771e3cb6?source=copy_link)
 a collection of practices to expand our inner world and feel safe and love in your human organism. 
 <br/><br/>
 <br/><br/>

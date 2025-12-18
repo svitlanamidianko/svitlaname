@@ -1,15 +1,14 @@
 hi internet friend, welcome in 🌲
 <br/><br/> 
-<br/><br/>
-i am Svitlana and i care about creating **Consious, Curious, and Collective spaces** which i like to call 3C spaces. 
+i am Svitlana and i care about creating **Consious, Curious, and Collective spaces**. i call these 3C spaces. 
 <br/><br/>
 i do so through multitude of roles:
 <br/><br/>
-🌱 **Yoga Teacher** & **Acrobat**
+🌱 **Yoga Teacher** 
 <br/><br/> 
 🌱 **Technologist** & **Mindware Engineer** & **Product Leader**
 <br/><br/> 
-🌱  **Coach**
+🌱  **Coach** & **Social Experience Designer**
 <br/><br/>
 🌱 **Life Artist**
 <br/><br/> 
@@ -19,8 +18,8 @@ i do so through multitude of roles:
 <br/><br/> 
 🌱 **Curator**
 <br/><br/>
-these days i direct my attention to pond.space, expanding the area of safety and security within Self, and rigidifying my boundaries. 
+these days i direct my attention to growing an AI Being in pond.space, expanding safety area within Self, and rigidifying my boundaries. 
 <br/><br/>
-huggingly from a peaceful place among trees of San Francisco, 
+huggingly from peaceful trees in San Francisco, 
 <br/>
 svitlanaing at gmail com 

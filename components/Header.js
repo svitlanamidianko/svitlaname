@@ -25,7 +25,7 @@ export default function Header() {
                 <a href="/artsies" className="nav-link">artsies</a>
               </li>*/}
               <li className="nav-item-wrapper">
-                <a href="/misc-pour" className="nav-link">offerings&asks</a>
+                <a href="/offerings-asks" className="nav-link">offerings & asks</a>
               </li>
               <li className="nav-item-wrapper">
                 <a href="https://www.pond.space/" className="nav-link">pond.space</a>
@@ -93,7 +93,7 @@ export default function Header() {
         <ul style={{ listStyle: 'none', padding: 0, margin: 0, width: '100%' }}>
           <li style={{ margin: '30px 0' }}><a href="/yummy-collections" className="nav-link mobile-menu-link" style={{ color: '#fff', textDecoration: 'none', paddingLeft: '2.5rem', display: 'block' }} onClick={() => setMenuOpen(false)}>yummy collections</a></li>
           <li style={{ margin: '30px 0' }}><a href="/writing" className="nav-link mobile-menu-link" style={{ color: '#fff', textDecoration: 'none', paddingLeft: '2.5rem', display: 'block' }} onClick={() => setMenuOpen(false)}>writings</a></li>
-          <li style={{ margin: '30px 0' }}><a href="/misc-pour" className="nav-link mobile-menu-link" style={{ color: '#fff', textDecoration: 'none', paddingLeft: '2.5rem', display: 'block' }} onClick={() => setMenuOpen(false)}>misc pour</a></li>
+          <li style={{ margin: '30px 0' }}><a href="/offerings-asks" className="nav-link mobile-menu-link" style={{ color: '#fff', textDecoration: 'none', paddingLeft: '2.5rem', display: 'block' }} onClick={() => setMenuOpen(false)}>offerings & asks</a></li>
           <li style={{ margin: '30px 0' }}><a href="https://www.pond.space/" className="nav-link mobile-menu-link" style={{ color: '#fff', textDecoration: 'none', paddingLeft: '2.5rem', display: 'block' }} onClick={() => setMenuOpen(false)}>pond.space</a></li>
           <li style={{ margin: '30px 0' }}><a href="https://formtranslator.com" className="nav-link mobile-menu-link" style={{ color: '#fff', textDecoration: 'none', paddingLeft: '2.5rem', display: 'block' }} onClick={() => setMenuOpen(false)}>formtranslator.com</a></li>
         </ul>

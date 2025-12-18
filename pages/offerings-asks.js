@@ -10,7 +10,7 @@ import rehypeRaw from 'rehype-raw';
 import rehypeStringify from 'rehype-stringify';
 
 export async function getStaticProps() {
-  const filePath = path.join(process.cwd(), 'misc.md');
+  const filePath = path.join(process.cwd(), 'offerings-asks.md');
   const fileContents = fs.readFileSync(filePath, 'utf8');
   const processedContent = await remark()
     .use(remarkGfm)
@@ -27,16 +27,16 @@ export async function getStaticProps() {
   };
 }
 
-export default function Misc({ contentHtml }) {
+export default function OfferingsAsks({ contentHtml }) {
   return (
     <>
       <Head>
-        <title>svitlana's misc pour 🐧</title>
-        <meta content="🐧svitlana's misc pour" name="description" />
-        <meta content="🐧svitlana's misc pour" property="og:title" />
-        <meta content="🐧svitlana's misc pour" property="og:description" />
-        <meta content="🐧svitlana's misc pour" property="twitter:title" />
-        <meta content="🐧svitlana's misc pour" property="twitter:description" />
+        <title>svitlana's offerings & asks 🐧</title>
+        <meta content="🐧svitlana's offerings & asks" name="description" />
+        <meta content="🐧svitlana's offerings & asks" property="og:title" />
+        <meta content="🐧svitlana's offerings & asks" property="og:description" />
+        <meta content="🐧svitlana's offerings & asks" property="twitter:title" />
+        <meta content="🐧svitlana's offerings & asks" property="twitter:description" />
         <meta property="og:type" content="website" />
         <meta content="summary_large_image" name="twitter:card" />
         <meta content="width=device-width, initial-scale=1" name="viewport" />
@@ -68,4 +68,5 @@ export default function Misc({ contentHtml }) {
       </div>
     </>
   );
-} 
+}
+
