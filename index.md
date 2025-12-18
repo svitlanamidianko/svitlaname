@@ -1,7 +1,9 @@
 hi internet friend, welcome in 🌲
 <br/><br/> 
 <br/><br/>
-i am Svitlana and i care about creating **Consious, Curious, and Collective spaces** which I call 3C spaces. here are of my roles that help me with that:
+i am Svitlana and i care about creating **Consious, Curious, and Collective spaces** which i like to call 3C spaces. 
+<br/><br/>
+i do so through multitude of roles:
 <br/><br/>
 🌱 **Yoga Teacher** and **Acrobat**
 <br/><br/> 
