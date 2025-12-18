@@ -1,256 +1,327 @@
 {
-    "inniosfood": {
-        "url": "https://docs.google.com/spreadsheets/d/1ksmvra9ZPOhCoopVvM3q3TgETSqMHc5eSvOxHslp0Qc/edit?gid=0#gid=0",
-        "tags": ["spreadsheet", "pond"],
-        "description": ""
-    },
-    "inniosmindarena": {
-        "url": "https://www.are.na/svitlana-midianko/innio-s-mind",
-        "tags": ["arena", "pond"],
-        "description": ""
-    },
-    "innerworldpractices": {
-        "url": "https://svitlanamm.notion.site/expanding-inner-world-mind-gymnastics-practices-e9e5e6a88cd14c31ae950a31771e3cb6?source=copy_link",
-        "tags": ["notion"],
-        "description": ""
-    },
-
-    "pondbudget": {
-        "url": "https://www.notion.so/svitlanamm/Shift-x-Pond-Budget-Breakdown-1da95a10886f8014a36cfb7b7761fead?pvs=4",
-        "tags": ["notion", "pond"],
-        "description": ""
-    },
-    "pondroadmap": {
-        "url": "https://www.notion.so/svitlanamm/Shift-x-Pond-Milestones-Roadmap-1da95a10886f80818c5bf3b1a100c84c?pvs=4",
-        "tags": ["notion", "pond"],
-        "description": ""
-    },
-
-    "pondarena": {
-        "url": "https://www.are.na/andre-vacha/pond-ngtmmhizvdy",
-        "tags": ["arena", "pond"],
-        "description": ""
-    },
-    "pmmindmaps": {
-        "url": "https://whimsical.com/pm-frameworks-UNLctvjJtLdXVy3LYjKguE",
-        "tags": ["whimsical"],
+    "26": {
+        "url": "https://iseebday.vercel.app/",
+        "tags": [
+            "vercel",
+            "birthday"
+        ],
         "description": ""
     },
     "chakrasbook": {
         "url": "https://svitlanamm.notion.site/western-body-eastern-mind-16d95a10886f806094aac8844ccf65a2?source=copy_link",
-        "tags": ["notion"],
-        "description": ""
-    },
-    "formtranslatordb": {
-        "url": "https://docs.google.com/spreadsheets/d/1sEnmusmz4X_18emilcsLFIn48nwM6qInLgQKN2rXC5M/edit?gid=0#gid=0",
-        "tags": ["notion"],
+        "tags": [
+            "notion"
+        ],
         "description": ""
     },
     "good-prompts": {
         "url": "https://www.notion.so/svitlanamm/good-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link",
-        "tags": ["notion"],
+        "tags": [
+            "notion"
+        ],
         "description": ""
     },
     "google-building": {
         "url": "https://svitlanamm.notion.site/how-to-get-to-Google-building-25495a10886f8020a7d0d3ecc9a370e8?source=copy_link",
-        "tags": ["notion"],
-        "description": ""
-    },
-    "elements":{
-        "url": "https://docs.google.com/document/d/17HA9T23kjpfB8sn8TmczK-oVYIWTVF_nv3IDV0XvN3c/edit?tab=t.0",
-        "tags": ["doc"],
+        "tags": [
+            "notion"
+        ],
         "description": ""
     },
     "spotify": {
         "url": "https://open.spotify.com/user/222vvud3enheb2avczrhhrh2q?si=d5a938a246b84b91",
-        "tags": [""],
-        "description": ""
-    },
-    "spaced": {
-        "url": "https://docs.google.com/spreadsheets/d/1kp8h0Vx9rjcC1EgsRXmaNilP_cmGj_S8vEo7GRjWQnU/edit?gid=0#gid=0",
-        "tags": ["sheet"],
+        "tags": [
+            "spotify"
+        ],
         "description": ""
     },
     "pm-guide": {
         "url": "https://svitlanamm.notion.site/Hitchhiker-s-Guide-to-Product-Management-0035ff2aab8248fbb83e436319e26df6?source=copy_link",
-        "tags": ["notion"],
+        "tags": [
+            "notion"
+        ],
         "description": ""
     },
     "highlist": {
         "url": "https://svitlanamm.notion.site/High-List-01cafc3cff3740969e2f900cd5a1ffa1?source=copy_link",
-        "tags": ["notion"],
-        "description": ""
-    },
-
-    "inniodrishti": {
-        "url": "https://www.notion.so/svitlanamm/drishti-list-1aa95a10886f800a95c3c4eb949ad0d9?pvs=4",
-        "tags": ["notion", "pond"],
+        "tags": [
+            "notion"
+        ],
         "description": ""
     },
     "coach": {
         "url": "https://svitlana.mmm.page/coach",
-        "tags": ["mmm"],
+        "tags": [
+            "mmm"
+        ],
         "description": ""
     },
     "pm": {
         "url": "https://svitlanamm.notion.site/Let-me-help-you-prep-for-your-PM-APM-journey-f2da21ffd95446ca815a5d805a7f0f6f?source=copy_link",
-        "tags": ["notion"],
+        "tags": [
+            "notion"
+        ],
         "description": ""
     },
     "teacher": {
         "url": "https://svitlana.mmm.page/teach",
-        "tags": ["mmm"],
-        "description": ""
-    },
-    "helpukraine": {
-        "url": "https://svitlanamm.notion.site/fundraiser-for-my-school-friend-dima-serving-in-ukrainian-army-1b795a10886f80489e73db5ceced46b0?pvs=4",
-        "tags": ["ukraine"],
+        "tags": [
+            "mmm"
+        ],
         "description": ""
     },
     "svitlanaing25": {
         "url": "https://docs.google.com/presentation/d/1nnp7dG5-gVTr5qB8MFQiwsLtn37EOOgHdbiImT8l6zk/edit?usp=sharing",
-        "tags": ["slides", "svitlana"],
-        "description": ""
-    },
-    "howtotakecareofme": {
-        "url": "https://svitlanamm.notion.site/how-to-take-care-of-svitlana-6c3f2dc731f742b7bdb22d11bedf9da9?pvs=4",
-        "tags": ["notion"],
+        "tags": [
+            "slides"
+        ],
         "description": ""
     },
     "model": {
         "url": "https://svitlanamm.notion.site/svitlanas-modeling-portfolio-cd021b1ef66843cbbdd401cfedc596df?pvs=4",
-        "tags": ["notion"],
-        "description": ""
-    },
-    "vipassana": {
-        "url": "https://partiful.com/e/11S5Qt2zbYqTZfnEi0px",
-        "tags": ["partiful"],
+        "tags": [
+            "notion"
+        ],
         "description": ""
     },
     "dhamma": {
         "url": "https://www.dhamma.org/en-US/schedules/schmanda",
-        "tags": ["resource"],
+        "tags": [
+            "resource"
+        ],
         "description": ""
     },
     "sublet": {
         "url": "https://svitlanamm.notion.site/Sublet-Our-Beautiful-Rooms-in-Lower-Haight-08cd8a4bcbd24b1e92e6b0e46154ee53?pvs=4",
-        "tags": ["notion"],
-        "description": ""
-    },
-    "sillyboob": {
-        "url": "https://svitlanamm.substack.com/p/masculine-and-feminine-selves",
-        "tags": ["substack"],
-        "description": ""
-    },
-    "craftsnotcareer": {
-        "url": "https://svitlanamm.substack.com/p/i-deprecated-a-word-career-from-my",
-        "tags": ["substack"],
-        "description": ""
-    },
-    "howtoworkwithme": {
-        "url": "https://svitlanamm.notion.site/how-to-work-with-svitlana-cb562a1edfb84b61bb5649c7c41ab66a?pvs=4",
-        "tags": ["notion"],
+        "tags": [
+            "notion"
+        ],
         "description": ""
     },
     "yoga": {
         "url": "https://partiful.com/e/H3B3Sfbio4sV0k92n5qG",
-        "tags": ["partiful", "yoga"],
+        "tags": [
+            "partiful",
+            "yoga"
+        ],
         "description": ""
     },
     "yumm": {
         "url": "https://svitlanamm.notion.site/6435b92ffe4b4404ad6ba8bb5ee171b0?v=fcdce166b1f946178f621820bdc220b5&pvs=4",
-        "tags": ["notion"],
-        "description": ""
-    },
-    "youandme":{
-        "url": "https://svitlanamm.notion.site/feeling-good-with-other-beings-language-of-attunment-6af8bbbd332d494a89dce7097db05c91?source=copy_link",
-        "tags": ["notion"],
-        "description": ""
-    },
-    "friendsgifts": {
-        "url": "https://svitlanamm.notion.site/gifts-from-my-family-of-friends-to-my-family-of-friends-1ce95a10886f802ab9f0dd7755516fd1?pvs=4",
-        "tags": ["notion"],
-        "description": ""
-    },
-    "26": {
-        "url": "https://iseebday.vercel.app/",
-        "tags": ["vercel", "birthday"],
+        "tags": [
+            "notion"
+        ],
         "description": ""
     },
     "26transcript": {
         "url": "https://svitlanamm.notion.site/svitlanaing-into-26-transcript-of-my-talk-1b995a10886f80aa846ccd9062561121?source=copy_link",
-        "tags": ["notion", "birthday"],
+        "tags": [
+            "notion",
+            "birthday"
+        ],
         "description": ""
     },
     "26video": {
         "url": "https://youtu.be/_nVdiTF6ggI",
-        "tags": ["youtube", "birthday"],
-        "description": ""
-    },
-    "pysankydesign": {
-        "url": "https://www.notion.so/svitlanamm/Pysanky-Designs-cb46f32bc82e4e049a47a22d22156cee",
-        "tags": ["notion"],
+        "tags": [
+            "youtube",
+            "birthday"
+        ],
         "description": ""
     },
     "pysankys": {
         "url": "https://www.youtube.com/watch?v=eYfA9SoaV6I",
-        "tags": ["youtube"],
-        "description": ""
-    },
-    "sfinances": {
-        "url": "https://docs.google.com/spreadsheets/d/1TG3bjacadjWk6TB9dpdPyJse_HWlRRvnZU6UjhvJIVY/edit?gid=104479844#gid=104479844",
-        "tags": ["sheet"],
-        "description": ""
-    },
-
-    "thoughtsonyoga": {
-        "url": "https://tally.so/r/3xo6Md",
-        "tags": ["tally", "yoga"],
-        "description": ""
-    },
-    "matchmaker": {
-        "url": "https://svitlanamm.notion.site/svitlana-s-matchmaking-experiment-19a95a10886f80ea9c03fa3e3410d52b?pvs=4",
-        "tags": ["notion"],
+        "tags": [
+            "youtube"
+        ],
         "description": ""
     },
     "resume": {
         "url": "https://docs.google.com/document/d/17HA9T23kjpfB8sn8TmczK-oVYIWTVF_nv3IDV0XvN3c/edit?tab=t.0",
-        "tags": ["doc"],
+        "tags": [
+            "doc"
+        ],
         "description": ""
     },
-    "pondnew": {
-        "url": "https://pond-pink.vercel.app/",
-        "tags": ["pond"],
-        "description": ""
-    },
-    "formTranslatorNotion":{
-        "url": "https://svitlanamm.notion.site/form-translator-prompt-and-philosophical-meta-stuff-29095a10886f805da6f6c37047343e79?source=copy_link",
-        "tags": ["notion"],
-        "description": ""
-    }, 
-    "formTranslatorDB":{
-        "url": "https://docs.google.com/spreadsheets/d/1sEnmusmz4X_18emilcsLFIn48nwM6qInLgQKN2rXC5M/edit?gid=0#gid=0",
-        "tags": ["sheet"],
-        "description": ""
-    }, 
-    "extraordinary":{
+    "extraordinary": {
         "url": "https://svitlanamm.notion.site/Svitlana-Midianko-s-EB1A-or-EB2NIW-case-23495a10886f8076b72bd4fbe4a64f64?source=copy_link",
-        "tags": ["notion"],
+        "tags": [
+            "notion"
+        ],
         "description": ""
     },
-    "svitlanaingtg":{
+    "innios-mind-arena": {
+        "url": "https://www.are.na/svitlana-midianko/innio-s-mind",
+        "tags": [
+            "arena",
+            "pond"
+        ],
+        "description": ""
+    },
+    "pond-arena": {
+        "url": "https://www.are.na/andre-vacha/pond-ngtmmhizvdy",
+        "tags": [
+            "arena",
+            "pond"
+        ],
+        "description": ""
+    },
+    "self-practices": {
+        "url": "https://svitlanamm.notion.site/expanding-inner-world-mind-gymnastics-practices-e9e5e6a88cd14c31ae950a31771e3cb6?source=copy_link",
+        "tags": [
+            "notion"
+        ],
+        "description": ""
+    },
+    "pm-mindmaps": {
+        "url": "https://whimsical.com/pm-frameworks-UNLctvjJtLdXVy3LYjKguE",
+        "tags": [
+            "whimsical"
+        ],
+        "description": ""
+    },
+    "form-translator-sheet": {
+        "url": "https://docs.google.com/spreadsheets/d/1sEnmusmz4X_18emilcsLFIn48nwM6qInLgQKN2rXC5M/edit?gid=0#gid=0",
+        "tags": [
+            "notion"
+        ],
+        "description": ""
+    },
+    "spaced-sheet": {
+        "url": "https://docs.google.com/spreadsheets/d/1kp8h0Vx9rjcC1EgsRXmaNilP_cmGj_S8vEo7GRjWQnU/edit?gid=0#gid=0",
+        "tags": [
+            "sheet"
+        ],
+        "description": ""
+    },
+    "how-to-take-care-of-me": {
+        "url": "https://svitlanamm.notion.site/how-to-take-care-of-svitlana-6c3f2dc731f742b7bdb22d11bedf9da9?pvs=4",
+        "tags": [
+            "notion"
+        ],
+        "description": ""
+    },
+    "silly-boob": {
+        "url": "https://svitlanamm.substack.com/p/masculine-and-feminine-selves",
+        "tags": [
+            "substack"
+        ],
+        "description": ""
+    },
+    "crafts-not-career": {
+        "url": "https://svitlanamm.substack.com/p/i-deprecated-a-word-career-from-my",
+        "tags": [
+            "substack"
+        ],
+        "description": ""
+    },
+    "how-to-work-with-me": {
+        "url": "https://svitlanamm.notion.site/how-to-work-with-svitlana-cb562a1edfb84b61bb5649c7c41ab66a?pvs=4",
+        "tags": [
+            "notion"
+        ],
+        "description": ""
+    },
+    "you-and-me": {
+        "url": "https://svitlanamm.notion.site/feeling-good-with-other-beings-language-of-attunment-6af8bbbd332d494a89dce7097db05c91?source=copy_link",
+        "tags": [
+            "notion"
+        ],
+        "description": ""
+    },
+    "pysanky-design": {
+        "url": "https://www.notion.so/svitlanamm/Pysanky-Designs-cb46f32bc82e4e049a47a22d22156cee",
+        "tags": [
+            "notion"
+        ],
+        "description": ""
+    },
+    "finances": {
+        "url": "https://docs.google.com/spreadsheets/d/1TG3bjacadjWk6TB9dpdPyJse_HWlRRvnZU6UjhvJIVY/edit?gid=104479844#gid=104479844",
+        "tags": [
+            "sheet"
+        ],
+        "description": ""
+    },
+    "thoughts-on-yoga": {
+        "url": "https://tally.so/r/3xo6Md",
+        "tags": [
+            "tally",
+            "yoga"
+        ],
+        "description": ""
+    },
+    "matchmake": {
+        "url": "https://svitlanamm.notion.site/svitlana-s-matchmaking-experiment-19a95a10886f80ea9c03fa3e3410d52b?pvs=4",
+        "tags": [
+            "notion"
+        ],
+        "description": ""
+    },
+    "form-Translator-sheet": {
+        "url": "https://docs.google.com/spreadsheets/d/1sEnmusmz4X_18emilcsLFIn48nwM6qInLgQKN2rXC5M/edit?gid=0#gid=0",
+        "tags": [
+            "sheet",
+            "formtranslator"
+        ],
+        "description": ""
+    },
+    "svitlanaing-tg": {
         "url": "https://t.me/svitlanainghere",
-        "tags": ["telegram"],
+        "tags": [
+            "telegram"
+        ],
         "description": ""
     },
-    "youtubewhoiam": {
+    "who-im-yt": {
         "url": "https://www.youtube.com/watch?v=TXq9SCKkGtE",
-        "tags": ["youtube", "pond"],
+        "tags": [
+            "youtube"
+        ],
         "description": ""
-    }, 
-    "youtube1":{
-        "url": "https://www.youtube.com/watch?v=LC5Y9FKsY-Y", 
-        "tags": ["youtube"],
+    },
+    "nondual-arena": {
+        "url": "https://www.are.na/svitlana-midianko/be-not-be-non-duality",
+        "tags": [
+            "arena"
+        ],
         "description": ""
-        }
+    },
+    "form-translator-tg": {
+        "url": "https://t.me/+7vc5MkcWgBAxMGUy",
+        "tags": [
+            "telegram",
+            "formtranslator"
+        ],
+        "description": ""
+    },
+    "growing-ai-beings-arena": {
+        "url": "https://www.are.na/svitlana-midianko/growing-ai-beings",
+        "tags": [
+            "arena"
+        ],
+        "description": ""
+    },
+    "inner-work-arena": {
+        "url": "https://www.are.na/svitlana-midianko/inner-work-qif05qhgl4u",
+        "tags": [
+            "arena"
+        ],
+        "description": ""
+    },
+    "form-translator-notion": {
+        "url": "https://svitlanamm.notion.site/form-translator-prompt-and-philosophical-meta-stuff-29095a10886f805da6f6c37047343e79?source=copy_link",
+        "tags": [
+            "notion",
+            "formtranslator"
+        ],
+        "description": ""
+    },
+    "pond-v1": {
+        "url": "https://spacious-seven.vercel.app/",
+        "tags": [
+            "pond"
+        ],
+        "description": ""
+    }
 }
