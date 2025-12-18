@@ -26,7 +26,7 @@ export default function Writing() {
               <br></br>
               <br></br>
               <br></br>
-              <p>and hey by the way, you can also...</p>
+     
               <div style={{ display: "flex", justifyContent: "center", marginTop: 32 }}>
                 <div data-supascribe-embed-id="650626461011" data-supascribe-subscribe></div>
               </div>

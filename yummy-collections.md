@@ -1,5 +1,5 @@
 
-### Inner Work Drills [\[svitlana.me/InnerWorldPractices\]](https://svitlanamm.notion.site/expanding-inner-world-mind-gymnastics-practices-e9e5e6a88cd14c31ae950a31771e3cb6?source=copy_link)
+### Inner Work Practices [\[svitlana.me/InnerWorldPractices\]](https://svitlanamm.notion.site/expanding-inner-world-mind-gymnastics-practices-e9e5e6a88cd14c31ae950a31771e3cb6?source=copy_link)
 a collection of practices to expand the inner world and tweak your mindset towards a Desired State of Being. 
 <br/><br/>
 <br/><br/>
