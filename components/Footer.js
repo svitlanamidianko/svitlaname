@@ -26,6 +26,11 @@ export default function Footer() {
         <div className="footer-nav-link">
           <a style={{ color: '#C0C0C0' }} href="https://www.linkedin.com/in/svitlanamm/" target="_blank" rel="noopener noreferrer" className="link-3">linkedin</a>
         </div>
+        <div className="footer-nav-link">
+          <a style={{ color: '#C0C0C0' }} href="https://t.me/svitlanainghere" target="_blank" rel="noopener noreferrer" className="link-3">telegram</a>
+        </div>
+        
+        
 
 
       </div>
