@@ -242,7 +242,7 @@ export default function LinksPage({ links: initialLinks, isLocalhost }) {
                   )}
                 </div>
               )}
-              {isLocalhost && allTags.length > 0 && (
+              {allTags.length > 0 && (
                 <div style={{ 
                   marginBottom: '1rem', 
                   padding: '1rem', 
@@ -291,27 +291,6 @@ export default function LinksPage({ links: initialLinks, isLocalhost }) {
                   </div>
                 </div>
               )}
-              {!isLocalhost && selectedTags.length > 0 && (
-              <div style={{ marginBottom: '1rem' }}>
-                  <span>Filtering by tags: </span>
-                  {selectedTags.map(tag => (
-                <span 
-                      key={tag}
-                  style={{ 
-                    backgroundColor: '#e0e0e0', 
-                    padding: '4px 8px', 
-                    borderRadius: '4px',
-                        marginRight: '4px',
-                        cursor: 'pointer',
-                        display: 'inline-block'
-                  }}
-                      onClick={() => handleTagClick(tag)}
-                >
-                      {tag} ×
-                </span>
-                  ))}
-              </div>
-            )}
             <table style={{ width: '100%', borderCollapse: 'collapse' }}>
               <thead>
                 <tr>
