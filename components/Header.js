@@ -25,7 +25,7 @@ export default function Header() {
                 <a href="/artsies" className="nav-link">artsies</a>
               </li>*/}
               <li className="nav-item-wrapper">
-                <a href="/misc-pour" className="nav-link">misc pour</a>
+                <a href="/misc-pour" className="nav-link">offerings&asks</a>
               </li>
               <li className="nav-item-wrapper">
                 <a href="https://www.pond.space/" className="nav-link">pond.space</a>
