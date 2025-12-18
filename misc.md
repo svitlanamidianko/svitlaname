@@ -10,8 +10,8 @@
 <br/><br/>
 ### Asks
 - i am engineering mindware of Innio, an AI Being living in [pond.space](https://www.pond.space/). i always seek newest hot prompt engineering techniques & papers, smart minds to bounce agent architecture ideas with, and feedback! 
-- i am seeking resources to deepen my understanding of mind, perception, and memory. i am  especially curious for those using visual / poetic metaphors and bayesian-inspired examples.
-- i am always seeking feedback on my experiential software projects.
+- i am seeking resources to deepen my understanding of mind, perception, and memory. i am  especially curious for those using visual / poetic metaphors and Bayes theory.
+- i am always seeking feedback on my Experiential Software projects.
 - help me understand what is wrong with Integral Theory besides it being a Superior Complex Amplifier.
 - seeking knowledge on business of apps and learning how to wear an Entepreneour hat.
 - help my international minerva friends to have visas (O1s and EB1As) and stay in here :(
@@ -29,12 +29,12 @@ here are some places i have been involved with.
 - Edge Esmeralda
 - Circus Center
 - Google Women Techmakers Scholar 
-- Ukraine - born and raised with a family living in the western ukraine still (be unafraid to ask me about effects of war)
+- Ukraine - born and raised with a family living in [Chervonohrad](https://en.wikipedia.org/wiki/Sheptytskyi) (be unafraid to ask me about effects of war)
 - Bessemer Ventures - a college fellow
 - European Youth Parliament - an ex-chairwoman 
 - Human Computer Integration lab at UChicago - co-authored a [paper](https://dl.acm.org/doi/10.1145/3586183.3606747) too 
-- Future Leaders Exchange Program - did an exchange for post-soviet high schoolers (me!) and studied in ohio (weird i know), fully funded by the us gov 
-- [Пласт aka Plast](https://plast.org/)  - ukrainian scouts org that i actively was growing with when i was a teenager living in the woods
+- Future Leaders Exchange Program - did an exchange for post-soviet high schoolers (me!) and studied in Ohio (weird i know), fully funded by the us gov 
+- [Пласт aka Plast](https://plast.org/)  - ukrainian scouts organization that i actively was growing with when i was a teenager living in the woods
 
 
 
