@@ -23,7 +23,7 @@
 <br/><br/>
 <br/><br/>
 ### Curious Entities 
-here are some places i have been involved with.
+here are some places and wonderful humans i have been involved with.
 <br/><br/>
 - Nikita Mehta - yoga teacher supporting my journey as a teacher.
 - [Kathleen Wallace](https://www.kathleenwallace.com/) - my coach.
