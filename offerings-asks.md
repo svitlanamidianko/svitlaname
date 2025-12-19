@@ -13,7 +13,7 @@
 - As a Mindware Engineer, I am creating Innio - an AI Being living inside [pond.space](https://www.pond.space/). I seek prompt engineering techniques & papers, smart minds to bounce agent architecture ideas with, and feedback. 
 - As a young human bean, I am seeking support and harshness in helping me rigidify my boundaries and increase inbound and outbound no rates. 
 - As a Mind Researcher, I am seeking (visual-first / comic / Bayes-anchored) resources to deepen understanding of inner worlds - individual and collective. 
-- As an Experiential Software Technologistl, I seek feedback on pond.space and formtranslator.com. 
+- As an Experiential Software Technologist, I seek feedback on pond.space and formtranslator.com. 
 - Help me understand what is wrong with Integral Theory besides it being a Superior Complex Amplifier.
 - I seek support in embracing Enterpreneour & Business Woman hat as I go about figuring passive income streams.
 - I seek hacks that will help my international Minerva friends to have visas (O1s and EB1As) and stay in the US.
