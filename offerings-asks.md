@@ -17,6 +17,8 @@
 - Help me understand what is wrong with Integral Theory besides it being a Superior Complex Amplifier.
 - I seek support in embracing Enterpreneour & Business Woman hat as I go about figuring passive income streams.
 - I seek hacks that will help my international Minerva friends to have visas (O1s and EB1As) and stay in the US.
+- I desire to storytell and present pond.space and formtranslator.com.
+- I am seeking a singing teacher with the vibrant soul.
 
 
 
