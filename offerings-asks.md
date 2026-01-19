@@ -1,4 +1,4 @@
-### Offerings
+
 ### Asks
 - Help me grow by leaving anonymous feedback at [svitlana.me/feedback](https://tally.so/r/D4pjYE).
 - I am [creating Innio](https://www.are.na/svitlana-midianko/growing-ai-beings) - an AI Being living inside [pond.space](https://www.pond.space/). I seek guidance on prompt engineering techniques, smart minds to bounce agent architecture ideas with, and feedback. Currently transitioning from Slop Engineer to Mindware Engineer and need help in growing skills.
@@ -11,7 +11,7 @@
 - I desire to storytell and present pond.space and formtranslator.com.
 - I am seeking a singing teacher with a vibrant soul who also plays ukulele.
 
-
+### Offerings
 
 - Product Manager Career Guide: [svitlana.me/pm](https://svitlanamm.notion.site/Let-me-help-you-prep-for-your-PM-APM-journey-f2da21ffd95446ca815a5d805a7f0f6f?pvs=4).
 - Product Management Frameworks Guide: [svitlana.me/pm-guide](https://svitlanamm.notion.site/Hitchhiker-s-Guide-to-Product-Management-0035ff2aab8248fbb83e436319e26df6?source=copy_link).
