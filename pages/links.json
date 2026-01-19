@@ -361,5 +361,33 @@
             "notion"
         ],
         "description": ""
+    },
+    "feedback": {
+        "url": "https://tally.so/r/D4pjYE",
+        "tags": [
+            "tally"
+        ],
+        "description": ""
+    },
+    "corp-sitcom": {
+        "url": "https://open.spotify.com/playlist/3TwnqBm8aAeYHAc2phz6nX?si=73adc1ee7ac34193",
+        "tags": [
+            "spotify"
+        ],
+        "description": ""
+    },
+    "entropic-brain": {
+        "url": "https://svitlanamm.notion.site/The-entropic-brain-2014-e342e77a1a0f4fa98a44bcef542d307a?source=copy_link",
+        "tags": [
+            "notion"
+        ],
+        "description": ""
+    },
+    "metaphors": {
+        "url": "https://svitlanamm.notion.site/Metaphors-we-live-by-ad0624d602d7491994f4500fd580c7b6?source=copy_link ",
+        "tags": [
+            "notion"
+        ],
+        "description": ""
     }
 }

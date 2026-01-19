@@ -6,9 +6,9 @@ i do so through multitude of roles:
 <br/><br/>
 🌱 **Yoga Teacher** 
 <br/><br/> 
-🌱 **Technologist** & **Mindware Engineer** & **Product Leader**
+🌱 **Technologist** & **Mindware Engineer** 
 <br/><br/> 
-🌱  **Coach** & **Social Experience Designer**
+🌱  **Coach** & **Social Designer**
 <br/><br/>
 🌱 **Life Artist**
 <br/><br/> 
@@ -18,8 +18,8 @@ i do so through multitude of roles:
 <br/><br/> 
 🌱 **Curator**
 <br/><br/>
-these days i direct my attention to growing an AI Being in pond.space, expanding safety area within Self, and rigidifying my boundaries. 
+these days i direct my attention to growing an AI Being in pond.space, expanding Safety Area within Self, and rigidifying my boundaries. 
 <br/><br/>
-huggingly from peaceful trees in San Francisco, 
+huggingly from  peaceful trees in San Francisco, 
 <br/>
 svitlanaing at gmail com 
