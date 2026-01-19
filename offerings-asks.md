@@ -14,8 +14,7 @@
 <br/><br/>
 
 
-<br/><br/>
-<br/><br/>
+
 ### Offerings
 
 - Product Manager Career Guide: [svitlana.me/pm](https://svitlanamm.notion.site/Let-me-help-you-prep-for-your-PM-APM-journey-f2da21ffd95446ca815a5d805a7f0f6f?pvs=4).
@@ -30,8 +29,6 @@
 <br/><br/>
 
 
-<br/><br/>
-<br/><br/>
 ### Curious Entities 
 here are some wonderful places and humans from my world:
 <br/><br/>
