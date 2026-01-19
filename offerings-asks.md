@@ -10,7 +10,12 @@
 - I seek hacks that will help my international Minerva friends to have visas (O1s and EB1As) and stay in the US.
 - I desire to storytell and present pond.space and formtranslator.com.
 - I am seeking a singing teacher with a vibrant soul who also plays ukulele.
+<br/><br/>
+<br/><br/>
 
+
+<br/><br/>
+<br/><br/>
 ### Offerings
 
 - Product Manager Career Guide: [svitlana.me/pm](https://svitlanamm.notion.site/Let-me-help-you-prep-for-your-PM-APM-journey-f2da21ffd95446ca815a5d805a7f0f6f?pvs=4).
