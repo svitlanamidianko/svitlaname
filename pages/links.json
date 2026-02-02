@@ -389,5 +389,12 @@
             "notion"
         ],
         "description": ""
+    },
+    "aletheia": {
+        "url": "https://calendar.app.google/6y9H6Fj7WA34d1ay7",
+        "tags": [
+            "calendar"
+        ],
+        "description": ""
     }
 }
