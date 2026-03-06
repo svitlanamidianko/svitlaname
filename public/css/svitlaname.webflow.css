@@ -1450,6 +1450,11 @@ figcaption {
   color: #303030;
 }
 
+/* Keep hero body text in site font (Source Serif Pro), not Inter from .home-hero-wrapper */
+.home-hero-wrapper .paragraph {
+  font-family: Source Serif Pro, sans-serif;
+}
+
 .paragraph.blog-post {
   color: var(--neutral-800);
   letter-spacing: 0;
