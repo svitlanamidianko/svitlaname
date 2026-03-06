@@ -4,21 +4,17 @@ i am Svitlana and i care about creating **Consious, Curious, and Collective spac
 <br/><br/>
 i do so through multitude of roles:
 <br/><br/>
-🌱 **Yoga Teacher** 
-<br/><br/> 
-🌱 **Technologist** & **Mindware Engineer** 
-<br/><br/> 
-🌱  **Coach** & **Social Designer**
+🌱 **Yoga Student** and **Yoga Teacher** 
 <br/><br/>
-🌱 **Life Artist**
+🌱 **Technologist** and **Mindware Engineer**
 <br/><br/> 
-🌱 **Writer**
-<br/><br/> 
-🌱 **Clown** & **Main Character of my Inner Sitcom**
-<br/><br/> 
-🌱 **Curator**
+🌱  **Social Designer** and **Coach** 
 <br/><br/>
-these days i direct my attention to growing an AI Being in pond.space, expanding Safety Area within Self, and rigidifying my boundaries. 
+🌱 **Researcher** and **Writer**
+<br/><br/> 
+🌱 **Clown Character of my Inner Sitcom**
+<br/><br/>
+these days i direct my attention to pond.space, expanding my safety field, and rigidifying my boundaries. 
 <br/><br/>
 huggingly from  peaceful trees in San Francisco, 
 <br/>

@@ -37,13 +37,6 @@
         ],
         "description": ""
     },
-    "coach": {
-        "url": "https://svitlana.mmm.page/coach",
-        "tags": [
-            "mmm"
-        ],
-        "description": ""
-    },
     "pm": {
         "url": "https://svitlanamm.notion.site/Let-me-help-you-prep-for-your-PM-APM-journey-f2da21ffd95446ca815a5d805a7f0f6f?source=copy_link",
         "tags": [
@@ -394,6 +387,13 @@
         "url": "https://calendar.app.google/6y9H6Fj7WA34d1ay7",
         "tags": [
             "calendar"
+        ],
+        "description": ""
+    },
+    "levin": {
+        "url": "https://www.notion.so/svitlanamm/the-computational-boundary-of-the-self-1f395a10886f80aaaa21e2390e4acf0f?source=copy_link",
+        "tags": [
+            "notion"
         ],
         "description": ""
     }
