@@ -6,7 +6,7 @@ i do so through multitude of roles:
 <br/><br/>
 🌱 **Yoga Student** and **Yoga Teacher** 
 <br/><br/>
-🌱 **Technologist** and **Mindware Engineer**
+🌱 **Technologist** and **Product Cultivator**
 <br/><br/> 
 🌱  **Social Designer** and **Coach** 
 <br/><br/>
