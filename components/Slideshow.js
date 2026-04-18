@@ -13,7 +13,8 @@ const Slideshow = ({ className }) => {
     '/images/index%20photos/kid.jpg',
     '/images/index%20photos/nose.jpg',
     '/images/index%20photos/yoga%20sunset.jpg',
-    '/images/index%20photos/yoga.png'
+    '/images/index%20photos/yoga.png',
+    '/images/index%20photos/faith.JPG'
   ]
 
   const [currentIndex, setCurrentIndex] = useState(0)

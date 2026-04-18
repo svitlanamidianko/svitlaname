@@ -4,8 +4,13 @@ a collection of practices to expand our inner world and feel safe  in your world
 <br/><br/>
 <br/><br/>
 
+### Arena, Arena, Arena!
+i collect a lot of yumm media in arena. see it here [here](https://www.are.na/svitlana-midianko/channels):)
+<br/><br/>
+<br/><br/>
+
 ### Feeling Good With Other Humans [\[svitlana.me/you-and-me\]](https://svitlanamm.notion.site/feeling-good-with-other-beings-language-of-attunment-6af8bbbd332d494a89dce7097db05c91?source=copy_link)
-a collection of practices to attune and exchange compassion with other human beans, including conflict resolution. 
+a collection of practices to attune and exchange compassion with other human beans. 
 <br/><br/>
 <br/><br/>
 ### Curious Books and Media [\[svitlana.me/yumm\]](https://svitlanamm.notion.site/6435b92ffe4b4404ad6ba8bb5ee171b0?v=1fa95a10886f8057aa53000c50c9fa48&source=copy_link)
@@ -16,7 +21,7 @@ a collection of curious reads and media. for example:
 - **metaphors we live by** by george lakoff and mark johnson. [notes.](https://svitlanamm.notion.site/Metaphors-we-live-by-ad0624d602d7491994f4500fd580c7b6?source=copy_link)
 - [science] the computational boundary of the self by **michael levin** et al. [notes.]()
 - ai and the meaning crisis by **john vervaeke** et al. [notes.](https://svitlanamm.notion.site/AI-and-the-Meaning-Crisis-Redefining-Human-Flourishing-1c795a10886f80b6900fe84052ad69a8?source=copy_link)
-- synthetic sentience and cyberanimism by **joscha bach.** [notes.](https://svitlanamm.notion.site/consciousness-synthetic-sentience-and-ego-91a29a788fce43fab4c05f762caa42af?source=copy_link)
+- [science]synthetic sentience and cyberanimism by **joscha bach.** [notes.](https://svitlanamm.notion.site/consciousness-synthetic-sentience-and-ego-91a29a788fce43fab4c05f762caa42af?source=copy_link)
 - a psalm for the wild built - fiction novel about enlightened ai robots that left us to live in the woods. [notes.](https://svitlanamm.notion.site/A-psalm-for-the-wild-built-5c66a5205b1549fbab41ae77b795eb9c?source=copy_link)
 - stuck on the platform by geert lovink. [notes.](https://svitlanamm.notion.site/stuck-on-the-platform-by-geert-lovink-ba2e98d2ac0548c6be653151828f61d1?source=copy_link)
 - you are here by **thich nat hann.** [notes.](https://svitlanamm.notion.site/You-are-here-f2a4495586c9468d8cf2f9b7fbd6846b?source=copy_link)

@@ -28,7 +28,7 @@
 - Svitlanaing telegram channel: [svitlana.me/tg](https://t.me/svitlanainghere).
 - Software services led by a friend whom I trust a lot: [movadex.com](https://movadex.com/). 
 - My friend Kristen is running a studio for creative projects with many amazing workshop offerings. See [playintobeing.com](https://playintobeing.com/)🎈
-- I am producing a Bhagavad Gita class to be taught by Nikita Mehta. Starts on March 23rd in San Francisco. Contact me if you are interested. 
+
 <br/><br/>
 <br/><br/>
 
@@ -43,7 +43,7 @@ here are some wonderful places and humans from my world:
 - [Viktor Perminov](http://goto.my/future) - my teacher. 
 - Sleepawake.camp - amazing school that helped me transition into fuller version of me. 
 - [Church of Clown](https://www.churchofclown.org/) - taking Clown 2 classes.
-- [Aletheia Unfolding](https://integralunfoldment.com/)- taking an L1 coaching training.
+- [Aletheia Unfolding](https://integralunfoldment.com/)- taking an L2 coaching training.
 - [Minerva University](https://en.wikipedia.org/wiki/Minerva_University) - graduated with a Computer Science (AI + Data Science) degree.
 - Google - currently a Product Manager at Ads (yes, i am a creature of living contradictions).
 - Edge Esmeralda.
