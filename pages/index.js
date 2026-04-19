@@ -32,7 +32,7 @@ export default function Home({ contentHtml }) {
   return (
     <>
       <Head>
-        <title>svitlana in your tab🌻</title>
+        <title>svitlana-ing in your tab🌻</title>
         <meta content="svitlana in your tab🌻" property="og:title" />
         <meta content="svitlana in your tab🌻" property="twitter:title" />
         <meta content="width=device-width, initial-scale=1" name="viewport" />
