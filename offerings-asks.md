@@ -36,11 +36,11 @@
 
 
 ### Curious Entities 
-here are some wonderful places and humans from my world:
+here are some wonderful places and humans from my world and my relationship to them:
 <br/><br/>
-- UIST - co-authored HCI science paper. read [here](https://dl.acm.org/doi/10.1145/3586183.3606747).
+- UIST - i co-authored HCI science paper. read [here](https://dl.acm.org/doi/10.1145/3586183.3606747).
 - [Andre Vacha](https://curlprojects.com/) - my design teacher.
-- Nikita Mehta - yoga teacher supporting my journey as a teacher.
+- Nikita Mehta - my yoga teacher supporting my journey as a teacher.
 - [Kathleen Wallace](https://www.kathleenwallace.com/) - my coach.
 - [Viktor Perminov](http://goto.my/future) - my teacher. 
 - Sleepawake.camp - amazing school that helped me transition into fuller version of me. 
