@@ -1,22 +1,22 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
 
 const MEDIA_FILES = [
+  '/images/index%20photos/gentle%20me.png',
   '/images/index%20photos/tree-reaching.png',
+  '/images/index%20photos/balloomn.mp4',
+  '/images/index%20photos/linkedin.png',
+  '/images/index%20photos/kid.jpg',
   '/images/index%20photos/pendeluming.mp4',
   '/images/index%20photos/pretty.png',
-  '/images/index%20photos/redwood.png',
-  '/images/index%20photos/linkedin.png',
-  '/images/index%20photos/old.jpeg',
-  '/images/index%20photos/kid.jpg',
+  '/images/index%20photos/life%20artist.png',
   '/images/index%20photos/nose.jpg',
-  '/images/index%20photos/yoga%20sunset.jpg',
   '/images/index%20photos/yoga.png',
+  '/images/index%20photos/old.jpeg',
+  '/images/index%20photos/redwood.png',
+  '/images/index%20photos/yoga%20sunset.jpg',
   '/images/index%20photos/faith.JPG',
   '/images/index%20photos/bday%20me.png',
-  '/images/index%20photos/gentle%20me.png',
-  '/images/index%20photos/life%20artist.png',
   '/images/index%20photos/sunset%20nyc.png',
-  '/images/index%20photos/balloomn.mp4',
 ]
 
 const isVideoSrc = (src) => src.endsWith('.mp4')
