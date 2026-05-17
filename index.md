@@ -4,6 +4,8 @@ i am Svitlana and i create **Consious, Curious, and Collective spaces**. i call 
 <br/><br/>
 i do so through multitude of roles:
 <br/><br/>
+🌱 **Life Artist** 
+<br/><br/>
 🌱 **Yoga Student** and **Yoga Teacher** 
 <br/><br/>
 🌱 **Technologist** and **Product Cultivator**
@@ -14,7 +16,7 @@ i do so through multitude of roles:
 <br/><br/> 
 🌱 **Clown Character ([Kid](https://open.spotify.com/playlist/58Zr64aZwD3LVVUmi0TOWJ?si=5d909ea7bdd24b69) in Grandma) of my Inner Sitcom**
 <br/><br/>
-these days i direct my attention to creating [pond.space](https://www.pond.space/), expanding my safety field, and rigidifying my boundaries. 
+these days i direct my attention to creating [pond.space](https://www.pond.space/), expanding my safety field, and affirming my boundaries. 
 <br/><br/>
 huggingly from  peaceful trees in San Francisco, 
 <br/>
