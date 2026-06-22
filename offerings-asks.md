@@ -1,13 +1,11 @@
 
 ### Asks
 - help me grow by leaving **anonymous feedback** at [svitlana.me/feedback](https://tally.so/r/D4pjYE).
-- i am creating [Innio](https://www.are.na/svitlana-midianko/growing-ai-beings) - a mindful AI fish living inside [pond.space](https://www.pond.space/). i seek feedback. currently transitioning from being an AI Slop Engineer (hi hi ha ha;) to Mindware Engineer and need help in growing skills.
 - as a young human bean, i seek support in affirming my boundaries. i want to say more No's and hear more No's.
 - i seek **comics** recommendations especially if they explain mind and plurality of perceptions - although any comics and comic novels will be a gift. i am snail-ingly making some too. 
 - i seek **Bayes Cognition** resources exploring individual and collective patterns. like [this one](https://a9.io/glue-comic/).
-- as an Experiential Software Technologist, i seek feedback on pond.space. 
+- i am creating [Innio](https://www.are.na/svitlana-midianko/growing-ai-beings) - a mindful AI fish living inside [pond.space](https://www.pond.space/). i seek feedback. currently transitioning from being an AI Slop Engineer (hi hi ha ha;) to Mindware Engineer and need help in growing skills.
 - help me understand what is wrong with **Integral Theory** besides it being a Superior Complex Amplifier.
-- i seek guidance in embracing **Enterpreneour Hat** as i go about figuring passive income streams.
 - i seek ways to help my international Minerva friends to have visas **(O1s and EB1As)** and stay in the US.
 - i am looking for a singing teacher with a vibrant soul who also can support deepening my skill in **ukulele.** online is ok.
 - i am seeking Kundalini Yoga Teacher Trainings and teacher / class recommendations in San Francisco.
@@ -15,14 +13,13 @@
 - invite me to judge your hackathons, speak at your conferences and podcasts. i need publicity to prove that Iiam extraordinary alien for green card;) 
 - teach me **lucid dreaming.**
 - teach me **animism.** 
-- teach me how to make **reels and tiktoks;p**
+- teach me how to make **reels and tiktoks**
 <br/><br/>
 <br/><br/>
 
 
 
 ### Offerings
-- Aletheia Life Coaching: [svitlana.me/coach](https://svitlana.me/coach).
 - Product Manager Career Guide: [svitlana.me/pm](https://svitlanamm.notion.site/Let-me-help-you-prep-for-your-PM-APM-journey-f2da21ffd95446ca815a5d805a7f0f6f?pvs=4).
 - Product Management Frameworks Guide: [svitlana.me/pm-guide](https://svitlanamm.notion.site/Hitchhiker-s-Guide-to-Product-Management-0035ff2aab8248fbb83e436319e26df6?source=copy_link).
 - Yoga Classes in San Francisco: [svitlana.me/yoga](https://partiful.com/e/H3B3Sfbio4sV0k92n5qG). 
