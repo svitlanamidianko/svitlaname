@@ -7,14 +7,6 @@
         ],
         "description": ""
     },
-    "good-prompts": {
-        "url": "https://www.notion.so/svitlanamm/good-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link",
-        "tags": [
-            "notion",
-            "curator"
-        ],
-        "description": ""
-    },
     "google-building": {
         "url": "https://svitlanamm.notion.site/how-to-get-to-Google-building-25495a10886f8020a7d0d3ecc9a370e8?source=copy_link",
         "tags": [
@@ -303,14 +295,6 @@
         ],
         "description": ""
     },
-    "good-questions": {
-        "url": "/good-questions-b5f4904de13a4643b19c3bde26bc1913?source=copy_link",
-        "tags": [
-            "notion",
-            "curator"
-        ],
-        "description": ""
-    },
     "high-list": {
         "url": "https://svitlanamm.notion.site/High-List-01cafc3cff3740969e2f900cd5a1ffa1?source=copy_link",
         "tags": [
@@ -423,6 +407,29 @@
         "tags": [
             "workshop",
             "figjam"
+        ],
+        "description": ""
+    },
+    "yummy-prompts": {
+        "url": "https://www.notion.so/svitlanamm/good-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link",
+        "tags": [
+            "notion",
+            "curator"
+        ],
+        "description": ""
+    },
+    "yummy-questions": {
+        "url": "/good-questions-b5f4904de13a4643b19c3bde26bc1913?source=copy_link",
+        "tags": [
+            "notion",
+            "curator"
+        ],
+        "description": ""
+    },
+    "arena": {
+        "url": "https://www.are.na/svitlana-midianko/channels",
+        "tags": [
+            "arena"
         ],
         "description": ""
     }

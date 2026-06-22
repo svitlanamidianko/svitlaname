@@ -4,7 +4,7 @@ a collection of practices to expand your inner world.
 <br/><br/>
 <br/><br/>
 
-### Yummy Media
+### Yummy Media [\[svitlana.me/arena\]](https://www.are.na/svitlana-midianko/channels)
 i collect a lot of yumm media in arena. see it here [here](https://www.are.na/svitlana-midianko/channels):)
 <br/><br/>
 <br/><br/>
@@ -13,7 +13,7 @@ i collect a lot of yumm media in arena. see it here [here](https://www.are.na/sv
 a collection of practices to attune and exchange compassion with other human beans. 
 <br/><br/>
 <br/><br/>
-### Curious Books and Media [\[svitlana.me/yumm\]](https://svitlanamm.notion.site/6435b92ffe4b4404ad6ba8bb5ee171b0?v=1fa95a10886f8057aa53000c50c9fa48&source=copy_link)
+### Yummy Books and Media [\[svitlana.me/yumm\]](https://svitlanamm.notion.site/6435b92ffe4b4404ad6ba8bb5ee171b0?v=1fa95a10886f8057aa53000c50c9fa48&source=copy_link)
 a collection of curious reads and media. for example:
 <br/><br/>
 - western body, eastern mind by anodea judish. [notes.](https://svitlanamm.notion.site/western-body-eastern-mind-16d95a10886f806094aac8844ccf65a2?source=copy_link)
@@ -38,11 +38,11 @@ a collection of curious reads and media. for example:
 - **everything is a remix.** [video.](https://www.youtube.com/watch?v=X9RYuvPCQUA&t=1545s)
 <br/><br/>
 <br/><br/>
-### Good Questions [\[svitlana.me/good-questions\]](https://www.notion.so/good-questions-b5f4904de13a4643b19c3bde26bc1913?source=copy_link) 
-i have been collecting [good questions](https://www.notion.so/svitlanamm/Good-questions-b5f4904de13a4643b19c3bde26bc1913?pvs=4) over the years.
+### Yummy Questions [\[svitlana.me/yummy-questions\]](https://app.notion.com/p/svitlanamm/yummy-questions-b5f4904de13a4643b19c3bde26bc1913?source=copy_link) 
+i have been collecting [yummy questions](https://app.notion.com/p/svitlanamm/yummy-questions-b5f4904de13a4643b19c3bde26bc1913?source=copy_link) over the years.
 <br/><br/>
 <br/><br/>
-### Good Prompts   [\[svitlana.me/good-prompts\]](https://www.notion.so/good-prompts-svitlana-me-good-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link) 
-i also have collecting prompts here [svitlana.me/good-prompts](https://www.notion.so/svitlanamm/good-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link).
+### Yummy Prompts   [\[svitlana.me/yummy-prompts\]](https://app.notion.com/p/svitlanamm/collection-yummy-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link) 
+i also have collecting prompts here [svitlana.me/yummy-prompts](https://app.notion.com/p/svitlanamm/collection-yummy-prompts-21a95a10886f8054aa0ad22685ef0fe0?source=copy_link).
 <br/><br/>
 <br/><br/>
