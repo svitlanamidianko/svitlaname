@@ -10,8 +10,6 @@ i do so through multitude of roles:
 <br/><br/>
 🌱 **Technologist** and **Product Cultivator**
 <br/><br/> 
-🌱  **Coach** in training
-<br/><br/>
 🌱 **Researcher** and **Writer**
 <br/><br/> 
 🌱 **Clown Character ([Kid](https://open.spotify.com/playlist/58Zr64aZwD3LVVUmi0TOWJ?si=5d909ea7bdd24b69) in Grandma) of my Inner Sitcom**
