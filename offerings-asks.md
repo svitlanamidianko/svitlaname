@@ -37,6 +37,7 @@
 ### Curious Entities 
 here are some wonderful places and humans from my world and my relationship to them:
 <br/><br/>
+- [Aletheia Unfolding](https://integralunfoldment.com/)- taking an level two (Somatic Work + Parts Work) coaching training.
 - UIST - i co-authored HCI science paper. read [here](https://dl.acm.org/doi/10.1145/3586183.3606747).
 - Google - currently a Product Manager at Ads (yes, i am a creature of living contradictions).
 - Ukraine - born and raised with a family living in [Chervonohrad](https://en.wikipedia.org/wiki/Sheptytskyi); i welcome you asking me about the war.
@@ -46,7 +47,6 @@ here are some wonderful places and humans from my world and my relationship to t
 - [Viktor Perminov](http://goto.my/future) - my teacher. 
 - Sleepawake.camp - amazing school that helped me transition into fuller version of me. 
 - [Church of Clown](https://www.churchofclown.org/) - taking Clown 2 classes.
-- [Aletheia Unfolding](https://integralunfoldment.com/)- taking an L2 coaching training.
 - [Minerva University](https://en.wikipedia.org/wiki/Minerva_University) - graduated with a Computer Science (AI + Data Science) degree.
 - Edge Esmeralda.
 - Circus Center - acrobatics & handstands training with Christopher Roguskie.

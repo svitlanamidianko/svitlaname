@@ -10,7 +10,7 @@ i do so through multitude of roles:
 <br/><br/>
 🌱 **Technologist** and **Product Cultivator**
 <br/><br/> 
-🌱  **Social Designer** and **Coach** 
+🌱  **Coach** in training
 <br/><br/>
 🌱 **Researcher** and **Writer**
 <br/><br/> 
