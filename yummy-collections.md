@@ -13,7 +13,7 @@ i collect a lot of yumm media in arena. see it here [here](https://www.are.na/sv
 a collection of practices to attune and exchange compassion with other human beans. 
 <br/><br/>
 <br/><br/>
-### Yummy Books and Media [\[svitlana.me/yumm\]](https://svitlanamm.notion.site/6435b92ffe4b4404ad6ba8bb5ee171b0?v=1fa95a10886f8057aa53000c50c9fa48&source=copy_link)
+### Yummy Books and Media [\[svitlana.me/yumm\]](https://app.notion.com/p/svitlanamm/6435b92ffe4b4404ad6ba8bb5ee171b0?v=7b0d74d812044adb8f06e3de2ef461a5&source=copy_link)
 a collection of curious reads and media. for example:
 <br/><br/>
 - western body, eastern mind by anodea judish. [notes.](https://svitlanamm.notion.site/western-body-eastern-mind-16d95a10886f806094aac8844ccf65a2?source=copy_link)
